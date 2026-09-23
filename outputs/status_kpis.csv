@@ -1,0 +1,5 @@
+Order_Status,total_orders,total_sales,total_profit,order_percentage,sales_percentage,profit_margin_percentage
+Cancelled,147,2966754.18,745013.665,14.97,12.9,25.11
+Completed,490,11385270.46,3100832.78,49.9,49.52,27.24
+Pending,179,4967445.31,1374438.49,18.23,21.61,27.67
+Returned,166,3671383.68,1008016.08,16.9,15.97,27.46

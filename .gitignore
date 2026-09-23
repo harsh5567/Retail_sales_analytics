@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.__pycache__
+
+# Jupiter
+.ipynb_checkpoints/
+
+#Virtual environment
+venv/
+.venv/
+
+#Temporary files
+*.Temporary*.Temporary
+#OS files
+Thums.files
+.DS_Store
+
+#VS Code local setting
+.vscode/
+
+#POwer BI temporary/backup
+files
+*.pbit

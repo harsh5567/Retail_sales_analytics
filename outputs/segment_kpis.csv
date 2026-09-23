@@ -1,0 +1,5 @@
+Customer_Segment,total_orders,total_sales,total_profit,sales_percentage,profit_margin_percentage,order_percentage,profit_percentage
+Consumer,309,7603196.149999999,2044203.76,33.07,26.89,31.47,32.82
+Small Business,343,7476593.59,2030484.31,32.52,27.16,34.93,32.6
+Corporate,315,7337589.56,1991239.615,31.92,27.14,32.08,31.97
+Unknown,15,573474.33,162373.33,2.49,28.31,1.53,2.61

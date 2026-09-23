@@ -1,0 +1,1013 @@
+Order_ID,Order_Date,Customer_ID,City,Category,Product,Quantity,Unit_Price,Discount,Sales,Cost,Profit,Customer_Segment,Payment_Method,Order_Status
+ORD-00632,2025-05-29,CUST-0086,Lucknow,Clothing,Cap,6.0,471.55,0.1,2546.39,1783.04,763.35,Corporate,,Returned
+ORD-00635,2025-02-27,CUST-0310,Jaipur,Office Supplies,Pen,5.0,41.2,0.0,206.0,133.13,72.87,Corporate,Card,Cancelled
+ORD-00964,2025-07-13,CUST-0196,Lucknow,Clothing,T-Shirt,2.0,718.52,0.1,1293.34,916.62,376.72,Consumer,Bank Transfer,Completed
+ORD-00626,2025-03-11,CUST-0044,Delhi,Electronics,Laptop,8.0,59892.87,0.15,407271.48,288715.72,118555.76,,Card,Returned
+ORD-00366,2025-06-03,CUST-0041,Hyderabad,Clothing,Cap,4.0,449.64,0.15,1528.78,1251.78,277.0,Small Business,Bank Transfer,Returned
+ORD-00721,2025-02-19,CUST-0064,Delhi,Electronics,Keyboard,5.0,1825.56,0.0,9127.79,5303.13,3824.66,Consumer,Card,Cancelled
+ORD-00751,2025-08-25,CUST-0076,Delhi,Clothing,Cap,4.0,502.86,0.1,1810.3,1281.93,528.37,Small Business,Card,Completed
+ORD-00534,2025-01-01,CUST-0327,Jaipur,Furniture,Table,6.0,6912.25,0.15,35252.47,20674.04,14578.43,Corporate,Bank Transfer,Returned
+ORD-00520,2025-06-14,CUST-0010,Hyderabad,Clothing,Cap,8.0,434.8,0.05,3304.51,2161.3,1143.21,Corporate,Card,Completed
+ORD-00071,2025-11-02,CUST-0142,Lucknow,Clothing,Jeans,6.0,2049.72,0.1,11068.5,7007.33,4061.16,Corporate,Cash,Cancelled
+ORD-00946,2025-04-07,CUST-0217,Chennai,Electronics,Tshirt,2.0,48386.44,0.2,77418.3,52837.46,24580.84,Corporate,Card,Pending
+ORD-00437,2025-03-23,CUST-0213,Pune,Office Supplies,File Folder,2.0,,0.2,150.22,102.88,47.34,Consumer,,Completed
+ORD-00959,2025-11-10,CUST-0042,Pune,Office Supplies,Stapler,8.0,200.85,0.15,1365.81,1018.49,347.32,Small Business,UPI,Pending
+ORD-00441,2025-09-21,CUST-0043,Delhi,Clothing,Shoes,4.0,2298.31,0.1,8273.9,6385.17,1888.73,Corporate,Cash,Completed
+ORD-00250,2025-11-19,CUST-0119,Delhi,Electronics,Laptop,7.0,62827.51,0.05,417802.97,365765.42,52037.55,Consumer,Cash,Returned
+ORD-00616,2025-03-23,CUST-0247,Chennai,Clothing,Shoes,4.0,2795.57,0.2,8945.84,5599.07,3346.77,Consumer,Bank Transfer,Completed
+ORD-00645,2025-11-06, CUST-0067 ,Mumbai,Furniture,Cabinet,2.0,5159.77,0.0,10319.53,5943.34,4376.19,,Bank Transfer,Returned
+ORD-00553,2025-11-01,CUST-0295,PUNE ,Furniture,Desk,7.0,10336.25,0.15,61500.69,37354.63,24146.07,Small Business,Cash,Completed
+ORD-00550,2025-10-23,CUST-0196,Mumbai,OFFICE SUPPLIES,Table,5.0,8129.07,0.0,40645.33,27051.14,13594.18,Small Business,Cash,Completed
+ORD-00102,2025-01-19,CUST-0317,Chennai,Electronics,Keyboard,8.0,1437.58,0.2,9200.52,7788.45,1412.07,Corporate,Cash,Completed
+ORD-00266,2025-02-13,CUST-0287,Delhi,Office Supplies,Stapler,7.0,196.9,0.15,1171.54,1030.84,140.69,Corporate,Card,Cancelled
+ORD-00732,2025-09-19,CUST-0143,mumbai,Clothing,Laptop ,7.0,2645.93,0.15,15743.31,12076.52,3666.79,Small Business,Card,Pending
+ORD-00214,2025-12-23,CUST-0140,Pune,Clothing,Jeans,5.0,1768.43,0.2,7073.71,5962.73,1110.98,Small Business,Card,Completed
+ORD-00605,2025-06-09,CUST-0023,Chennai,Electronics,Headphones,2.0,2330.22,0.0,4660.44,4096.76,563.68,Small Business,Cash,Completed
+ORD-00598,2025-01-19,CUST-0331,Lucknow,Furniture,Bookshelf,8.0,5614.2,0.15,38176.54,31976.94,6199.6,Small Business,Card,Pending
+ORD-00255,2025-07-27,CUST-0195,Mumbai,Furniture,Bookshelf,1.0,7377.11,0.0,7377.11,5824.14,1552.97,Small Business,Bank Transfer,Cancelled
+ORD-00831,2025-07-09,CUST-0347,Hyderabad,Clothing,Jeans,8.0,1854.32,0.0,14834.57,10683.47,4151.09,Consumer,Bank Transfer,Cancelled
+ORD-00290,2025-03-11,CUST-0100,Delhi,Clothing,Cap,1.0,498.82,0.15,423.99,269.33,154.66,Corporate,Bank Transfer,Cancelled
+ORD-00555,2025-03-11,CUST-0247,Mumbai,Clothing,Jacket,7.0,3176.42,0.05,21123.18,12690.51,8432.68,Corporate,Card,Pending
+ORD-00890,2025-06-14,CUST-0192,Lucknow,Clothing,Cap,8.0,463.2,0.05,3520.32,2913.02,607.3,Corporate,Bank Transfer,Returned
+ORD-00469,2025-04-21,CUST-0230,Delhi,Clothing,Cap,5.0,427.76,0.0,2138.79,1821.65,317.14,Small Business,Bank Transfer,Pending
+ORD-00351,2025-06-07,CUST-0151,Lucknow,Office Supplies,Pen,3.0,40.39,0.15,103.0,58.41,44.59,Consumer,Card,Completed
+ORD-00097,2025-05-25,CUST-0153,Lucknow,Office Supplies,Stapler,5.0,201.62,0.0,1008.11,765.08,243.03,Small Business,Bank Transfer,Completed
+ORD-00545,2025-10-09,CUST-0131,Pune,Clothing,Jacket,4.0,3442.05,0.15,11702.98,7331.35,4371.63,Small Business,UPI,Pending
+ORD-00992,2025-04-26,CUST-0141,Lucknow,Office Supplies,Notebook,5.0,118.49,0.05,562.85,399.27,163.58,Corporate,Cash,Completed
+ORD-00077,2025-01-24,CUST-0028,Delhi,Furniture,Bookshelf,3.0,5807.55,0.1,15680.37,11156.89,4523.48,Small Business,UPI,Returned
+ORD-00299,2025-07-26,CUST-0264,Chennai,Office Supplies,Stapler,2.0,189.05,0.0,378.1,229.45,148.64,Corporate,UPI,Returned
+ORD-00210,2025-07-01,CUST-0347,Bangalore,Clothing,Jacket,6.0,3155.27,0.2,15145.28,12090.23,3055.05,Corporate,UPI,Cancelled
+ORD-00704,2025-08-16,CUST-0213,Jaipur,Office Supplies,Printer Paper,2.0,496.46,0.05,943.28,769.59,173.69,Corporate,Bank Transfer,Completed
+ORD-00159,2025-07-30,CUST-0187,Bangalore,Furniture,Desk,8.0,8754.17,0.0,70033.38,42523.37,27510.01,Small Business,Card,Pending
+ORD-00501,2025-03-18,CUST-0243,Chennai,Office Supplies,Pen,4.0,36.22,0.05,137.64,100.32,37.32,Corporate,Cash,Completed
+ORD-00276,2025-11-27,cust-0347,Bangalore,Furniture,Bookshelf,1.0,6539.32,0.2,,4348.49,882.97,Small Business,Bank Transfer,Completed
+ORD-00335,2025-08-20,CUST-0285,Jaipur,Electronics,Keyboard,1.0,1449.55,0.15,1232.12,793.59,438.53,Consumer,Card,Completed
+ORD-00599,2025-09-24,CUST-0154,Lucknow,Furniture,Table,7.0,8565.35,0.0,59957.45,52146.78,7810.68,Corporate,UPI,Cancelled
+ORD-00782,2025-04-04,CUST-0019,Pune,Clothing,T-Shirt,1.0,758.91,0.05,720.96,461.91,259.05,Consumer,Bank Transfer,Completed
+ORD-00706,2025-11-24,CUST-0140,Chennai,Office Supplies,Notebook,1.0,109.41,0.15,93.0,54.58,38.41,Consumer,Bank Transfer,Completed
+ORD-00487,2025-09-17,CUST-0055,Delhi,Clothing,Cap,3.0,534.89,0.15,1363.96,846.92,517.04,Corporate,Cash,Cancelled
+ORD-00661,2025-04-14,CUST-0219,Mumbai,Electronics,Laptop,4.0,50827.2,0.0,203308.81,122524.0,80784.81,Corporate,UPI,Returned
+ORD-00888,2025-05-31,CUST-0077,Delhi,Clothing,Jeans,4.0,1954.93,0.2,6255.77,4091.8,2163.97,Small Business,UPI,Completed
+ORD-00882,2025-07-03,CUST-0016,Delhi,Clothing,Jeans,1.0,1582.96,0.0,1582.96,1125.68,457.29,Corporate,Cash,Completed
+ORD-00446,2025-12-18,CUST-0155,Lucknow,Electronics,Laptop,2.0,58667.4,0.1,105601.33,87900.42,17700.91,Small Business,Cash,Completed
+ORD-00322,2025-07-06,CUST-0197,Delhi,Electronics,Laptop,1.0,50238.89,0.15,42703.06,28101.78,14601.28,Consumer,Card,Completed
+ORD-00060,2025-10-31,CUST-0289,Bangalore,Furniture,Table,1.0,8383.26,0.15,7125.77,5187.44,1938.33,Small Business,Cash,Completed
+ORD-00630,2025-11-09,CUST-0046,Jaipur,Electronics,Mouse,2.0,782.34,0.2,1251.74,928.85,322.89,Corporate,Card,Pending
+ORD-00933,2025-05-05,CUST-0106,Delhi,Clothing,Jacket,6.0,3436.2,0.1,18555.49,15945.44,2610.05,Consumer,Cash,Returned
+ORD-00334,2025-02-16,CUST-0128,Delhi,Furniture,Bookshelf,6.0,6004.62,0.05,34226.32,20639.32,13587.0,Consumer,UPI,Pending
+ORD-00750,2025-12-05,CUST-0240,Bangalore,Furniture,Chair,8.0,4819.68,0.05,36629.56,30582.02,6047.54,Small Business,UPI,Returned
+ORD-00055,2025-05-01,CUST-0140,Jaipur,Clothing,Jeans,2.0,1653.55,0.1,2976.39,1712.63,1263.77,Corporate,UPI,Completed
+ORD-00024,2025-05-08,CUST-0039,Chennai,Clothing,Jeans,5.0,1698.32,0.15,7217.88,5208.58,2009.29,Consumer,Bank Transfer,Cancelled
+ORD-00031,2025-06-11,CUST-0038,Bangalore,Office Supplies,Stapler,5.0,173.99,0.15,739.45,472.91,266.54,Small Business,Cash,Pending
+ORD-00347,2025-04-30,CUST-0309,Bengaluru,Office Supplies,Pen,2.0,40.09,0.0,80.18,50.51,29.67,Consumer,Card,Completed
+ORD-00434,2025-01-21,CUST-0220,Bangalore,Electronics,Mouse,2.0,806.91,0.15,1371.76,836.82,534.93,Small Business,UPI,Cancelled
+ORD-00011,2025-10-03,CUST-0135,Jaipur,Clothing,Jeans,4.0,1860.4,0.2,5953.28,3548.35,2404.93,Consumer,Bank Transfer,Cancelled
+ORD-00689,2025-04-07,CUST-0235,Jaipur,Electronics,Headphones,6.0,2458.98,0.0,14753.87,10621.16,4132.71,Corporate,Cash,Completed
+ORD-00245,2025-09-20,CUST-0255,Lucknow,Clothing,Shoes,5.0,2837.81,0.1,12770.14,10775.28,1994.86,Corporate,Bank Transfer,Completed
+ORD-00315,2025-08-01,CUST-0217,Delhi,Furniture,Chair,5.0,4305.02,0.2,17220.1,10905.56,6314.54,Corporate,Bank Transfer,Completed
+ORD-00450,2025-04-05,CUST-0114,Chennai,Office Supplies,Pen,3.0,34.16,0.05,97.34,56.29,41.06,Small Business,UPI,Completed
+ORD-00200,2025-07-26,CUST-0188,Chennai,Electronics,Laptop,5.0,59139.37,0.1,266127.18,212635.39,53491.79,Consumer,Cash,Pending
+ORD-00592,2025-11-10,CUST-0030,Chennai,Office Supplies,Printer Paper,4.0,467.9,0.05,1778.04,1524.79,253.25,Small Business,Cash,Cancelled
+ORD-00236,2025-01-23,CUST-0206,Delhi,Electronics,Monitor,1.0,10243.76,0.05,9731.57,8467.05,1264.52,Corporate,Bank Transfer,Completed
+ORD-00108,2025-02-24,CUST-0122,Jaipur,Office Supplies,Stapler,7.0,191.46,0.15,1139.17,715.73,423.44,Consumer,Bank Transfer,Cancelled
+ORD-00219,2025-11-25,CUST-0279,delhi,Electronics,Keyboard,5.0,1394.93,0.15,5928.44,4868.51,1059.92,Corporate,Bank Transfer,Completed
+ORD-00425,2025-07-16,CUST-0215,Chennai,Furniture,Chair,6.0,5003.29,0.2,24015.8,17927.25,6088.56,Small Business,Card,Completed
+ORD-00175,2025-07-08,CUST-0266,Lucknow,Clothing,Shoes,8.0,2405.96,0.15,16360.52,12377.29,3983.24,Consumer,UPI,Completed
+ORD-00852,2025-05-09,CUST-0349,Delhi,Furniture,Chair,5.0,4717.72,0.2,18870.9,13530.94,5339.96,Corporate,Bank Transfer,Completed
+ORD-00523,2025-07-20,CUST-0037,Mumbai,Electronics,Keyboard,1.0,,0.1,1606.74,1210.25,396.49,Consumer,Bank Transfer,Completed
+ORD-00295,2025-11-12,CUST-0072,Lucknow,Furniture,Desk,7.0,7995.72,0.05,53171.56,31909.74,21261.83,Small Business,Card,Completed
+ORD-00943,2025-08-12,CUST-0131,Chennai,Electronics,Laptop,3.0,49391.18,0.05,140764.87,98861.13,41903.74,Small Business,UPI,Cancelled
+ORD-00040,2025-12-09,CUST-0128,Bangalore,Clothing,T-Shirt,6.0,670.28,0.15,3418.42,2010.84,1407.58,Small Business,,Completed
+ORD-00855,2025-06-24,CUST-0108,Hyderabad,Office Supplies,Printer Paper,4.0,466.14,0.1,1678.12,1283.03,395.09,Corporate,Bank Transfer,Cancelled
+ORD-00793,2025-01-21,CUST-0263,Bangalore,Clothing,Jacket,7.0,3439.01,0.0,24073.05,14324.07,9748.98,Corporate,UPI,Pending
+ORD-00850,2025-04-15,CUST-0073,Chennai,Furniture,MOUSE,2.0,7403.07,0.2,11844.92,8662.72,3182.2,Corporate,UPI,Cancelled
+ORD-00067,2025-09-17,CUST-0332,Chennai,Electronics,Keyboard,6.0,1417.54,0.0,8505.21,5625.46,2879.75,Small Business,UPI,Completed
+ORD-00281,2025-05-05,CUST-0265,Lucknow,Electronics,Laptop,2.0,58367.32,0.05,110897.9,68787.55,42110.35,Small Business,,Cancelled
+ORD-00068,2025-12-29,CUST-0079,Mumbai,Clothing,Shoes,6.0,2832.18,0.15,14444.13,9484.84,4959.29,Corporate,Bank Transfer,Completed
+ORD-00779,2025-12-30,CUST-0272,Hyderabad,Clothing,Jacket,2.0,3099.88,0.1,5579.79,3825.72,1754.07,Consumer,Bank Transfer,Completed
+ORD-00443,2025-02-14,CUST-0038,Delhi,Electronics,Mouse,6.0,980.98,0.0,5885.86,3584.02,2301.85,Corporate,Cash,Completed
+ORD-00884,2025-10-11,CUST-0126,Jaipur,Furniture,Desk,3.0,9640.86,0.1,26030.33,18405.68,7624.65,Small Business,Card,Completed
+ORD-00300,2025-08-23,CUST-0326,Hyderabad,Office Supplies,Stapler,1.0,163.38,0.0,163.38,92.06,71.32,Corporate,UPI,Completed
+ORD-00519,2025-04-04,CUST-0070,Jaipur,Office Supplies,Printer Paper,4.0,428.38,0.0,1713.53,1352.27,361.26,Corporate,UPI,Completed
+ORD-00333,2025-08-26,CUST-0136,Lucknow,Electronics,Printer paper,8.0,10566.42,0.1,-76078.2,45680.66,₹30397.54,Consumer,Cash,Completed
+ORD-00921,2025-07-13,CUST-0104,Delhi,Electronics ,Stapler,1.0,173.1,0.0,173.1,119.88,53.21,Small Business,Card,Completed
+ORD-00974,2025-12-23,CUST-0248,Bangalore,Office Supplies,Stapler,3.0,176.77,0.15,450.77,269.85,180.91,Small Business,UPI,Completed
+ORD-00935,2025-03-06,CUST-0047,Pune,Clothing,T-Shirt,3.0,622.66,0.05,1774.59,1401.17,373.42,Consumer,Card,Cancelled
+ORD-00870,2025-07-13,CUST-0161,Mumbai,Clothing,Cap,1.0,480.16,0.0,480.16,329.71,150.45,Consumer,Cash,Completed
+ORD-00925,2025-07-25,CUST-0335,Lucknow,Furniture,Chair,3.0,5580.39,0.0,16741.16,12775.47,3965.69,Corporate,UPI,Completed
+ORD-00185,2025-04-13,CUST-0072,Lucknow,Furniture,Desk,4.0,8178.64,0.0,32714.54,18741.81,13972.73,Small Business,Card,Pending
+ORD-00517,2025-07-30,CUST-0288,Pune,Office Supplies,File Folder,6.0,82.71,0.05,471.45,278.05,193.39,Consumer,Bank Transfer,Pending
+ORD-00089,2025-02-16,CUST-0241,Bangalore,Clothing,Jacket,7.0,3171.84,0.15,18872.47,12788.41,6084.06,Small Business,UPI,Pending
+ORD-00064,2025-04-22,CUST-0239,Bangalore,Furniture,Desk,2.0,9858.64,0.2,15773.82,13156.02,2617.81,Corporate,UPI,Completed
+ORD-00837,2025-06-28,CUST-0035,Hyderabad,Furniture,Desk,2.0,9993.75,0.2,-15990.0,13047.13,2942.87,Consumer,Cash,Pending
+ORD-00579,2025-07-23,CUST-0156,Delhi,Clothing,Cap,5.0,448.79,0.15,1907.36,1603.49,303.87,Consumer,UPI,Pending
+ORD-00216,2025-12-01,CUST-0244,Bangalore,Clothing,T-Shirt,3.0,625.03,0.15,1593.82,1277.13,316.69,Consumer,Bank Transfer,Returned
+ORD-00755,2025-04-01,CUST-0330,Delhi,Office Supplies,Pen,5.0,41.29,0.2,165.18,132.54,32.64,Corporate,Cash,Returned
+ORD-00260,2025-04-29,CUST-0039,Lucknow,Furniture,Chair,2.0,5730.91,0.15,9742.55,5842.0,3900.55,Consumer,UPI,Cancelled
+ORD-00382,2025-05-10,CUST-0112,Chennai,Office Supplies,Printer Paper,6.0,416.05,0.15,2121.83,1687.92,433.91,Corporate,Bank Transfer,Completed
+ORD-00381,2025-01-05,CUST-0115,Bangalore,Electronics,Headphones,3.0,2238.76,0.2,5373.01,3507.87,1865.14,Small Business,UPI,Cancelled
+ORD-00894,2025-08-10,CUST-0210,Lucknow,Electronics,Headphones,8.0,2602.5,0.15,17697.02,13318.74,4378.28,Corporate,UPI,Pending
+ORD-00972,2025-07-20,CUST-0201,Chennai,Clothing,Jacket,8.0,3256.41,0.1,23446.13,18370.86,5075.27,Small Business,Cash,Cancelled
+ORD-00463,2025-10-28,CUST-0335,Bangalore,Office Supplies,Printer Paper,7.0,439.9,0.1,2771.39,1544.82,1226.58,Corporate,Cash,Cancelled
+ORD-00747,2025-02-18,CUST-0304,,Electronics,Keyboard,2.0,1469.09,0.2,2350.54,1349.58,1000.97,Consumer,UPI,Completed
+ORD-00680,2025-01-18,CUST-0218,Delhi,Electronics,Headphones,8.0,2332.62,0.2,14928.77,11129.04,3799.74,Consumer,Bank Transfer,Pending
+ORD-00758,2025-07-19,CUST-0121,Mumbai,Electronics,Mouse,6.0,817.86,0.2,3925.73,2168.95,1756.78,Corporate,Bank Transfer,Completed
+ORD-00998,2025-02-16,CUST-0325,Mumbai,Furniture,Bookshelf,7.0,6990.18,0.1,44038.14,33768.24,10269.91,Corporate,Cash,Completed
+ORD-00313,2025-06-12,CUST-0068,Mumbai,Clothing,Cap,1.0,517.74,0.1,465.96,313.01,152.96,Small Business,Bank Transfer,Cancelled
+ORD-00087,2025-06-15,CUST-0310,Mumbai,Clothing,Shoes,1.0,2509.07,0.15,2132.71,1332.4,800.31,Small Business,UPI,Completed
+ORD-00297,2025-07-30,CUST-0031,,Office Supplies,Printer Paper, 2 ,407.05,0.05,773.4,513.59,259.81,Small Business,UPI,Returned
+ORD-00999,2025-05-27,CUST-0284,Bangalore,Furniture,Chair,1.0,5684.92,0.0,5684.92,3256.07,2428.85,Small Business,Bank Transfer,Completed
+ORD-00654,2025-11-28,CUST-0104,Lucknow,Electronics,Keyboard,8.0,1702.76,0.1,12259.88,9986.54,2273.35,Consumer,Card,Cancelled
+ORD-00821,2025-06-23,CUST-0162,Delhi,Clothing,Jeans,2.0,1821.58,0.0,3643.15,3016.06,627.09,Small Business,Bank Transfer,Completed
+ORD-00137,2025-03-21,CUST-0081,Banglore,Office Supplies,mouse,2.0,499.55,0.0,999.11,850.61,148.5,Small Business,Cash,Returned
+ORD-00878,2025-04-13,CUST-0328,Delhi,Furniture,Cabinet,6.0,6856.57,0.05,39082.46,31832.95,7249.51,Corporate,Card,Completed
+ORD-00586,2025-01-03,CUST-0312,Hyderabad,Office Supplies,Notebook,8.0,124.21,0.2,794.94,694.61,100.33,Corporate,Bank Transfer,Completed
+ORD-00731,2025-09-13,CUST-0143,Chennai,Furniture,Cabinet,4.0,5808.96,0.15,19750.45,15107.26,4643.19,Consumer,UPI,Returned
+ORD-00465,2025-02-09,CUST-0264,Bangalore,Electronics,Monitor,3.0,12480.52,0.05,35569.49,22590.29,12979.2,Corporate,UPI,Completed
+ORD-00623,2025-05-01,CUST-0222,Lucknow,Electronics,Laptop,5.0,59306.9,0.0,296534.48,224373.62,72160.86,Consumer,Bank Transfer,Returned
+ORD-00169,2025-07-04,CUST-0035,Chennai,Office Supplies,Pen,2.0,44.27,0.2,70.82,55.4,15.43,Consumer,Cash,Pending
+ORD-00507,2025-06-25,CUST-0117,Chennai,Office Supplies,Stapler,2.0,203.98,0.05,387.56,218.2,169.36,Consumer,UPI,Completed
+ORD-00452,2025-12-10,CUST-0336,Hyderabad,Electronics,Mouse,6.0,813.99,0.05,4639.73,3444.55,1195.18,Corporate,Card,Completed
+ORD-00140,2025-04-15,CUST-0155,Pune,Office Supplies,Notebook,1.0,127.27,0.0,127.27,103.42,23.85,Corporate,Card,Completed
+ORD-00688,2025-07-10,CUST-0177,Chennai,Office Supplies,Printer Paper,1.0,415.88,0.0,415.88,348.23,67.64,Corporate,Bank Transfer,Pending
+ORD-00669,2025-02-27,CUST-0077,Pune,Furniture,Table,1.0,6823.97,0.05,6482.77,5020.75,1462.03,Corporate,Bank Transfer,Pending
+ORD-00860,2025-09-10,CUST-0186,Jaipur,Electronics,Monitor,4.0,13741.24,0.05,52216.73,32840.64,19376.09,Small Business,Cash,Completed
+ORD-00913,2025-03-22,CUST-0141,Mumbai,Furniture,Cabinet,1.0,6259.03,0.05,5946.08,4310.9,1635.17,Corporate,UPI,Returned
+ORD-00514,2025-09-04,CUST-0277,Chennai,Clothing,Tshirt,5.0,554.31,0.1,2494.38,2067.09,427.28,Small Business,Card,Completed
+ORD-00536,2025-07-29,CUST-0329,Bangalore,Clothing,Cap,5.0,469.45,0.1,2112.51,1324.73,787.77,Small Business,UPI,Completed
+ORD-00056,2025-12-28,CUST-0110,Bangalore,Electronics,Mouse,7.0,843.23,0.05,5607.5,3382.46,2225.04,Consumer,Cash,Pending
+ORD-00121,2025-03-06,CUST-0290,MUMBAI,Furniture,Cabinet,6.0,6792.83,0.05,38719.11,33484.14,5234.96,Consumer,Card,Completed
+ORD-00533,2025-11-03,CUST-0284,Lucknow,Furniture,Cabinet,8.0,5858.44,0.1,42180.79,33466.33,8714.46,Corporate,Card,Completed
+ORD-00026,2025-05-16,CUST-0233,Bangalore,Clothing,T-Shirt,1.0,798.61,0.15,678.82,546.99,131.83,Corporate,UPI,Pending
+ORD-00073,2025-07-27,CUST-0125,Delhi,Clothing,Shoes,5.0,2338.63,0.05,11108.49,6244.89,4863.6,Consumer,UPI,Returned
+ORD-00045,2025-09-24,CUST-0276,Delhi,Furniture,Bookshelf,7.0,7255.06,0.0,50785.45,35845.94,14939.51,Small Business,Card,Completed
+ORD-00877,2025-07-08,CUST-0005,Hyderabad,Furniture,Desk,6.0,7682.73,0.1,41486.72,26119.89,15366.83,Corporate,Card,Completed
+ORD-00399,2025-07-07,CUST-0334,Delhi,Furniture,Laptop ,3.0,10166.72,0.0,30500.16,22463.18,8036.98,Small Business,Cash,Pending
+ORD-00287,2025-03-02,CUST-0123,Mumbai,Office Supplies,File Folder,-3,87.21,0.1,235.46,177.84,57.62,Small Business,UPI,Completed
+ORD-00362,2025-08-31,CUST-0060,delhi,Electronics,Laptop,5.0,47847.19,0.0,239235.94,190089.66,49146.28,Consumer,UPI,Pending
+ORD-00320,2025-08-22,CUST-0262,Mumbai,Clothing,Jacket,2.0,2792.32,0.15,4746.94,3201.83,1545.11,Corporate,UPI,Completed
+ORD-00199,2025-12-01,CUST-0345,Delhi,Office Supplies,Notebook,8.0,132.9,0.2,850.58,588.23,262.35,Corporate,Bank Transfer,Completed
+ORD-00848,2025-10-11,CUST-0209,Jaipur,Clothing,T-Shirt,6.0,672.18,0.15,3428.13,1962.59,1465.54,Consumer,Cash,Pending
+ORD-00787,2025-02-11,CUST-0236,Mumbai,Office Supplies,File Folder,3.0,96.4,0.0,289.19,241.39,47.8,Corporate,Bank Transfer,Pending
+ORD-00364,2025-04-26,CUST-0138,Jaipur,Clothing,T-Shirt,8.0,624.35,0.1,4495.34,3652.18,843.15,Corporate,Cash,Completed
+ORD-00696,2025-05-14,CUST-0190,Delhi,Furniture,Chair,3.0,4604.08,0.15,11740.39,6741.97,4998.43,Corporate,Card,Completed
+ORD-00761,2025-01-18,CUST-0340,Lucknow,Office Supplies,Stapler,1.0,156.25,0.2,125.0,107.3,17.71,Corporate,Cash,Returned
+ORD-00238,2025-02-01, CUST-0286 ,Pune,Office Supplies,Pen,5.0,40.33,0.1,181.5,159.29,22.2,Corporate,Card,Returned
+ORD-00278,2025-01-13,CUST-0248,Hyderabad,Office Supplies,Stapler,3.0,200.34,0.1,540.92,369.53,171.39,Small Business,Cash,Completed
+ORD-00952,2025-05-22,CUST-0033,Bengaluru,Furniture,Chair,7.0,5391.49,0.0,37740.4,21197.0,16543.4,Consumer,,Completed
+ORD-00319,2025-05-18,CUST-0061,Jaipur,Clothing,Jacket,6.0,3029.36,0.05,17267.33,10878.68,6388.65,Consumer,Cash,Completed
+ORD-00644,2025-11-14,CUST-0048,Jaipur,Furniture,Bookshelf,1.0,5696.34,0.0,5696.34,3792.09,1904.25,Consumer,Cash,Cancelled
+ORD-00328,2025-09-09,CUST-0031,Pune,Office Supplies,Notebook,4.0,117.54,0.15,399.64,236.62,,Small Business,Card,Returned
+ORD-00061,2025-07-14,CUST-0168,Hyderabad,Clothing,Jeans,1.0,1966.02,0.1,1769.42,1496.41,273.0,Consumer,Card,Pending
+ORD-00389,2025-06-19,CUST-0191, Delhi ,Electronics,Mouse,5.0,826.9,0.15,3514.32,2770.49,743.83,Consumer,UPI,Cancelled
+ORD-00479,2025-06-26,CUST-0204,Hyderabad,Office Supplies,File Folder,5.0,90.51,0.2,362.04,204.73,157.31,Corporate,Card,Returned
+ORD-00604,2025-03-15,CUST-0051,Lucknow,Furniture,Desk,5.0,9494.9,0.1,42727.04,29787.07,12939.97,Corporate,Card,Completed
+ORD-00451,2025-02-07,CUST-0149,Delhi,Electronics,Mouse,8.0,821.13,0.2,5255.23,2936.39,2318.84,Small Business,Cash,Completed
+ORD-00826,2025-01-15,CUST-0277,Lucknow,Office Supplies,File Folder,3.0,77.48,0.0,232.43,151.09,81.34,Small Business,UPI,Completed
+ORD-00378,2025-08-17, CUST-0091 ,Pune,Electronics,Laptop,8.0,49047.99,0.2,313907.13,254901.48,₹59005.65,Corporate,Bank Transfer,Cancelled
+ORD-00947,2025-02-15,CUST-0056,Chennai,Office Supplies,Printer Paper,5.0,490.51,0.15,2084.67,1286.93,797.74,Small Business,UPI,Completed
+ORD-00637,2025-05-02,CUST-0339,Bangalore,Electronics,Mouse,7.0,975.56,0.15,5804.58,3268.41,2536.17,Corporate,Bank Transfer,Returned
+ORD-00698,2025-03-21,CUST-0003,Hyderabad,Electronics,Headphones,8.0,2377.75,0.1,17119.82,14098.71,3021.11,Consumer,UPI,Returned
+ORD-00991,2025-09-30,CUST-0057,Pune,Electronics,Monitor, 5 ,10869.97,0.0,54349.83,44288.17,10061.66,Consumer,Bank Transfer,Completed
+ORD-00797,2025-01-09,CUST-0059,Jaipur,Office Supplies,Printer Paper,2.0,399.83,0.2,639.73,373.83,265.9,Small Business,Bank Transfer,Completed
+ORD-00549,2025-04-22,CUST-0040,Mumbai,Office Supplies,Printer Paper,7.0,412.27,0.2,2308.69,1411.82,896.87,Small Business,UPI,Pending
+ORD-00724,2025-04-20,CUST-0259,Bangalore,Furniture,,1.0,6875.62,0.0,6875.62,5683.24,1192.38,Small Business,Bank Transfer,Completed
+ORD-00842,2025-05-21,CUST-0106,Delhi,Furniture,Table,3.0,7817.19,0.0,23451.56,19263.55,4188.01,Consumer,Card,Returned
+ORD-00111,2025-08-14,CUST-0018,Mumbai,Office Supplies,Pen,1.0,41.89,0.1,37.7,27.81,9.9,Small Business,UPI,Returned
+ORD-00532,2025-05-31,CUST-0278,Delhi,Furniture,Bookshelf,8.0,7023.13,0.2,44948.05,30918.1,14029.95,Corporate,Bank Transfer,Completed
+ORD-00494,2025-01-04,CUST-0278,Mumbai,Electronics,Laptop,8.0,58108.64,0.2,371895.29,257906.79,113988.5,Small Business,Cash,Pending
+ORD-00883,2025-01-16,CUST-0102,Pune,Office Supplies,Stapler,6.0,161.1,0.0,966.62,635.2,331.41,Small Business,Card,Completed
+ORD-00261,2025-09-09,CUST-0117,Delhi,Clothing,Jacket,5.0,3084.72,0.15,13110.05,8858.38,4251.67,Small Business,UPI,Cancelled
+ORD-00480,2025-04-20,CUST-0261,Hyderabad,Electronics,Mouse,3.0,809.9,0.0,2429.69,1928.08,501.61,Small Business,Bank Transfer,Completed
+ORD-00812,2025-04-18,CUST-0286,Chennai,Clothing,laptop,5.0,713.08,0.05,3387.14,2933.32,453.82,Corporate,Cash,Completed
+ORD-00478,2025-04-15,CUST-0212,Lucknow,Clothing,Cap,5.0,487.82,0.15,2073.22,1402.4,670.82,Small Business,Bank Transfer,Completed
+ORD-00433,2025-05-31,CUST-0230,mumbai,Clothing,Jeans,4.0,1746.41,0.05,6636.37,4875.61,1760.75,Small Business,Card,Returned
+ORD-00791,2025-06-08,CUST-0309,Mumbai,Office Supplies,Pen,8.0,36.78,0.15,250.13,169.84,80.29,Corporate,Card,Completed
+ORD-00741,2025-07-02,CUST-0211,Chennai,Electronics,Keyboard,7.0,1752.56,0.1,11041.13,6510.61,4530.52,Consumer,UPI,Completed
+ORD-00529,2025-03-22,CUST-0256,Bangalore,Clothing,Cap,2.0,540.08,0.05,1026.15,700.49,325.66,Corporate,Cash,Returned
+ORD-00737,2025-04-01,CUST-0286,Hyderabad,Office Supplies,Stapler,1.0,200.44,0.0,200.44,136.97,63.47,Corporate,UPI,Returned
+ORD-00138,2025-11-07,CUST-0227,Hyderabad,Electronics,Keyboard,7.0,1605.44,0.15,9552.39,6834.74,2717.65,Small Business,Bank Transfer,Completed
+ORD-00953,2025-02-01,CUST-0137,Hyderabad,Furniture,Table,2.0,8052.9,0.0,16105.8,9934.36,6171.44,Small Business,Cash,Returned
+ORD-00372,2025-07-22,CUST-0170,Chennai,Furniture,Bookshelf,7.0,6982.84,0.0,48879.87,34992.99,13886.88,Consumer,Card,Completed
+ORD-00949,2025-03-29,CUST-0091,Chennai,Electronics,Headphones,5.0,2586.99,0.15,10994.7,6729.29,4265.42,Small Business,UPI,Completed
+ORD-00759,2025-07-29,CUST-0131,Bangalore,Furniture,Chair,5.0,5221.21,0.15,22190.15,18780.64,3409.51,Consumer,Cash,Pending
+ORD-00248,2025-09-08,CUST-0329,Pune,Clothing,Cap,6.0,494.55,0.1,2670.6,1780.24,890.36,Corporate,Bank Transfer,Pending
+ORD-00929,2025-09-19,CUST-0328,Lucknow,Clothing,T-Shirt,8.0,753.56,0.15,5124.2,3597.08,1527.12,Consumer,Card,Cancelled
+ORD-00324,2025-01-24,CUST-0206,Delhi,Office Supplies,Notebook,4.0,123.37,0.2,394.78,305.6,89.18,Consumer,Cash,Pending
+ORD-00466,2025-08-01,CUST-0170,Bangalore,Furniture,Desk,2.0,8026.26,0.05,15249.9,12589.2,2660.7,Corporate,Cash,Pending
+ORD-00209,2025-06-16, CUST-0340 ,Bangalore,Clothing,T-Shirt,4.0,656.57,0.2,2101.04,1383.45,717.59,Small Business,Bank Transfer,Cancelled
+ORD-00707,2025-05-29,CUST-0284,Bangalore,Clothing,Cap,3.0,465.46,0.15,1186.93,675.17,511.76,Consumer,Bank Transfer,Completed
+ORD-00668,2025-02-18,CUST-0317,Pune,Clothing,T-Shirt,2.0,799.71,0.2,1279.53,978.34,301.19,Consumer,UPI,Cancelled
+ORD-00211,2025-06-02,CUST-0148,Pune,Clothing,Jeans,5.0,1957.45,0.05,9297.9,7536.64,1761.26,Corporate,Card,Returned
+ORD-00583,2025-11-10,CUST-0082,mumbai,Clothing,Jacket,7.0,2694.68,0.2,15090.23,12372.92,2717.31,Small Business,Bank Transfer,Cancelled
+ORD-00079,2025-09-09,CUST-0038,Hyderabad,Electronics,Keyboard,2.0,1682.63,0.15,2860.46,2292.19,568.28,Consumer,Cash,Completed
+ORD-00030,2025-04-15,CUST-0343,Mumbai,Electronics,Monitor,6.0,10362.82,0.1,55959.22,36785.3,19173.92,Corporate,UPI,Completed
+ORD-00873,2025-11-30,CUST-0346,Chennai,Clothing,Shoes,2.0,2437.12,0.1,4386.81,3109.56,1277.25,Small Business,Cash,Pending
+ORD-00910,2025-05-07,CUST-0270,Hyderabad,Electronics,Mouse,7.0,933.66,0.2,5228.49,3534.67,1693.82,Consumer,UPI,Cancelled
+ORD-00828,2025-06-23,cust-0121,Hyderabad,Electronics,Laptop,1.0,48196.11,0.15,40966.69,35198.42,5768.27,Corporate,Card,Completed
+ORD-00651,2025-03-19,CUST-0169,Delhi,Furniture,Chair,7.0,4297.38,0.1,27073.49,23254.77,3818.71,Small Business,Bank Transfer,Cancelled
+ORD-00293,2025-01-22,CUST-0226,Mumbai,Electronics,Monitor,6.0,12480.24,0.2,59905.17,37695.21,22209.96,Corporate,Card,Pending
+ORD-00166,2025-10-08,CUST-0312,Delhi,Electronics ,Laptop,4.0,52623.55,0.05,199969.49,159993.43,39976.06,Corporate,Bank Transfer,Completed
+ORD-00568,2025-12-14,CUST-0314,Mumbai,Clothing,Jeans,7.0,1898.96,0.2,10634.17,6115.96,4518.21,Small Business,Card,Pending
+ORD-00843,2025-01-12,CUST-0175,Lucknow,Clothing,T-Shirt,1.0,622.83,0.15,529.41,441.77,87.64,Corporate,Bank Transfer,Completed
+ORD-00468,2025-03-27,CUST-0133,Delhi,Furniture,Desk,3.0,8113.53,0.0,24340.6,15574.61,8765.99,Small Business,Card,Cancelled
+ORD-00066,2025-12-23,CUST-0155,Pune,Clothing,Shoes,4.0,2438.06,0.0,9752.23,6078.52,3673.71,Consumer,Cash,Cancelled
+ORD-00142,2025-08-12,CUST-0010,Lucknow,Furniture,Cabinet,7.0,5776.05,0.0,40432.35,23491.76,16940.58,Consumer,Bank Transfer,Completed
+ORD-00988,2025-07-15,CUST-0333,Chennai,Furniture,Cabinet,5.0,5637.71,0.1,25369.68,21828.68,3540.99,Consumer,Card,Pending
+ORD-00838,2025-07-13,CUST-0244,Jaipur,Clothing,Cap,8.0,543.5,0.1,3913.23,2545.73,1367.5,Small Business,Card,Completed
+ORD-00686,2025-07-07,CUST-0090,Hyderabad,Clothing,Jacket,1.0,3424.26,0.1,3081.83,1879.06,1202.77,Small Business,Cash,Cancelled
+ORD-00329,2025-08-23,CUST-0044,Delhi,Office Supplies,Notebook,7.0,112.22,0.1,706.96,473.53,233.43,Consumer,Cash,Cancelled
+ORD-00812,2025-04-18,CUST-0286,Chennai,Clothing,laptop,5.0,713.08,0.05,3387.14,2933.32,453.82,Corporate,Cash,Completed
+ORD-00528,2025-05-05,CUST-0005,PUNE ,Electronics,Mouse,2.0,1034.44,0.15,1758.55,1170.73,587.82,Small Business,Cash,Cancelled
+ORD-00918,2025-02-21,CUST-0091,Bangalore,Clothing,Jacket,1.0,3280.59,0.2,2624.47,2012.02,612.45,Consumer,UPI,Completed
+ORD-00596,2025-05-11,cust-0035,Pune,Office Supplies,Printer Paper,4.0,391.59,0.1,1409.73,1046.19,363.55,Consumer,UPI,Completed
+ORD-00222,2025-03-13,CUST-0245,Chennai,Office Supplies,Notebook,2.0,115.47,0.05,219.4,147.51,71.89,Small Business,UPI,Completed
+ORD-00262,2025-11-13,CUST-0152,Bangalore,Clothing,Shoes,7.0,2852.44,0.0,19967.05,16530.71,3436.34,Small Business,Card,Returned
+ORD-00311,2025-12-04,CUST-0155,Pune,Office Supplies,Notebook,5.0,108.64,0.0,543.21,336.3,206.92,Small Business,Card,Cancelled
+ORD-00911,2025-05-28,CUST-0331,Hyderabad,Clothing,Shoes,1.0,2279.27,0.0,2279.27,1344.9,934.37,Small Business,Bank Transfer,Completed
+ORD-00308,2025-09-29,CUST-0289,Chennai,Office Supplies,Pen,3.0,44.48,0.0,133.45,113.95,19.5,Consumer,Cash,Cancelled
+ORD-00050,2025-04-12,CUST-0076,Pune,Office Supplies,Notebook,5.0,102.92,0.05,488.85,286.27,202.58,Small Business,Cash,Completed
+ORD-00752,2025-07-31,CUST-0137,Chennai,Office Supplies,Stapler,2.0,154.38,0.05,293.33,194.36,98.97,Corporate,UPI,Returned
+ORD-00003,2025-05-23,CUST-0004,Chennai,Furniture,Cabinet,8.0,5380.83,0.2,34437.33,20713.31,13724.03,Consumer,Card,Returned
+ORD-00712,2025-05-20,CUST-0185,Bangalore,Office Supplies,Stapler,3.0,155.24,0.0,465.73,278.95,186.78,Corporate,Bank Transfer,Returned
+ORD-00356,2025-11-30,CUST-0116,Chennai,Office Supplies,File Folder,8.0,97.03,0.2,620.97,463.59,157.38,Consumer,Card,Pending
+ORD-00915,2025-01-14,CUST-0038,delhi,Clothing,Jeans,1.0,1961.31,0.15,1667.11,1078.01,589.1,Consumer,Bank Transfer,Pending
+ORD-00543,2025-07-25,CUST-0259,Mumbai,Clothing,Shoes,3.0,2833.55,0.2,6800.52,4789.21,2011.3,Consumer,UPI,Returned
+ORD-00774,2025-05-01,CUST-0317,Bangalore,Furniture,Table,5.0,8188.48,0.1,36848.17,26957.19,9890.98,Consumer,Bank Transfer,Completed
+ORD-00627,2025-09-18,CUST-0218,Chennai,Clothing,Shoes,3.0,2212.98,0.15,5643.1,3336.83,2306.27,Small Business,Bank Transfer,Pending
+ORD-00714,2025-12-17,CUST-0186,Lucknow,Furniture,Cabinet, 5 ,5108.89,0.1,₹22990.01,19865.62,3124.39,Corporate,Cash,Cancelled
+ORD-00584,2025-03-16,CUST-0092,Bangalore,Clothing,T-Shirt,3.0,769.75,0.05,2193.78,1573.96,619.82,Corporate,Cash,Pending
+ORD-00034,2025-10-11,CUST-0080,Bangalore,Office Supplies,Notebook,2.0,107.07,0.0,214.15,174.47,39.68,Corporate,UPI,Completed
+ORD-00032,2025-06-28,CUST-0036,Pune,Electronics,Laptop,5.0,60424.17,0.05,287014.8,191647.99,95366.81,Small Business,Card,Completed
+ORD-00232,2025-02-11,CUST-0350,Chennai,office supplies,Jacket,7.0,3221.44,0.15,19167.57,14232.15,4935.43,Corporate,Card,Returned
+ORD-00757,2025-09-14,CUST-0062,Bangalore,Electronics,Headphones,2.0,2841.64,0.2,4546.63,2528.0,2018.63,Consumer,UPI,Pending
+ORD-00193,2025-08-21,CUST-0038,Pune,Office Supplies,Stapler,7.0,192.69,0.1,1213.97,989.57,224.4,Small Business,Cash,Completed
+ORD-00881,2025-09-04,CUST-0170,Hyderabad,Furniture,Desk,4.0,8876.82,0.05,33731.91,27951.54,5780.37,Small Business,Bank Transfer,Completed
+ORD-00004,2025-02-22,CUST-0048,Jaipur,Clothing,Jacket,4.0,2602.28,0.1, 9368.19 ,7830.29,1537.9,Consumer,Bank Transfer,Completed
+ORD-00205,2025-01-09,CUST-0189,Hyderabad,Office Supplies,File Folder,5.0,100.95,0.15,429.02,248.88,180.13,Small Business,,Returned
+ORD-00495,2025-04-04,CUST-0262,Lucknow,Office Supplies,File Folder,5.0,83.15,0.15,353.4,289.9,63.5,Corporate,UPI,Pending
+ORD-00582,2025-03-05,CUST-0047,Mumbai,Furniture,Table,6.0,7129.02,0.05,40635.4,32319.68,8315.72,Corporate,Cash,Returned
+ORD-00482,2025-01-20,CUST-0197,Pune,Electronics,Keyboard,2.0,1477.77,0.2,2364.43,1604.19,760.24,Corporate,Bank Transfer,Cancelled
+ORD-00110,2025-06-30,CUST-0113,Hyderabad,electronics,Monitor,4.0,12538.68,0.2,40123.77,33312.51,6811.26,Corporate,Card,Cancelled
+ORD-00291,2025-03-27,CUST-0043,Hyderabad,Clothing,Shoes,8.0,2469.35,0.15,16791.59,14665.96,2125.64,Corporate,Cash,Completed
+ORD-00078,2025-09-03,CUST-0226,Mumbai,Furniture,Table,5.0,8592.71,0.15,36519.03,23002.54,13516.49,Consumer,UPI,Completed
+ORD-00085,2025-03-14,CUST-0037,,Electronics,Monitor,3.0,10346.79,0.1,27936.33,20812.42,7123.91,Small Business,Cash,Completed
+ORD-00360,2025-05-02,CUST-0050,Jaipur,Furniture,Table,5.0,6654.67,0.1,29946.01,23692.87,,Small Business,Cash,Pending
+ORD-00083,2025-01-17,CUST-0119,Hyderabad,Electronics,Headphones,8.0,2192.72,0.1,15787.56,13035.0,2752.56,Small Business,UPI,Returned
+ORD-00257,2025-09-01,CUST-0139,Delhi,Electronics,Monitor,4.0,13557.82,0.2,43385.03,36261.26,7123.78,Consumer,Cash,Completed
+ORD-00353,2025-06-27,CUST-0164,Bangalore,Electronics,T-Shirt ,2.0,2172.53,0.05,4127.81,3618.8,509.01,Corporate,Card,Returned
+ORD-00371,2025-12-02,CUST-0249,Lucknow,Electronics,Keyboard,5.0,1582.09,0.15,6723.87,4366.85,2357.02,Corporate,Bank Transfer,Completed
+ORD-00405,2025-02-26,cust-0294,Pune,OFFICE SUPPLIES,Jacket,1.0,2955.76,0.0,2955.76,1736.12,1219.64,Consumer,Bank Transfer,Completed
+ORD-00526,2025-09-24,CUST-0063,Bangalore,Office Supplies,Printer Paper,1.0,500.58,0.2,400.47,290.16,110.31,Small Business,UPI,Pending
+ORD-00310,2025-08-08,CUST-0162,Bangalore,Electronics,Laptop,7.0,60052.32,0.1,378329.62,301500.6,76829.02,Consumer,Card,Completed
+ORD-00823,2025-01-05,CUST-0144,Jaipur,Clothing,Cap,6.0,438.37,0.1,2367.19,1891.95,475.24,Small Business,Card,Returned
+ORD-00282,2025-11-19,CUST-0095,Chennai,Furniture,Bookshelf,4.0,5790.92,0.15,19689.14,10923.53,8765.61,Corporate,Card,Returned
+ORD-00006,2025-01-24,CUST-0339,Lucknow,OFFICE SUPPLIES,File Folder,4.0,77.06,0.0,308.22,268.18,40.05,Small Business,Card,Completed
+ORD-00409,2025-07-25,CUST-0205,Lucknow,Office Supplies,Notebook,3.0,123.29,0.0,369.86,252.12,117.74,Corporate,Bank Transfer,Completed
+ORD-00671,2025-04-01,CUST-0081,Mumbai,Clothing,T-Shirt,1.0,649.11,0.2,519.29,364.89,154.4,Small Business,Cash,Pending
+ORD-00098,2025-10-06,CUST-0194,Hyderabad,Clothing,Cap,6.0,475.85,0.2,2284.1,1519.47,764.63,Corporate,Bank Transfer,Completed
+ORD-00306,2025-01-05,CUST-0176,Pune,OFFICE SUPPLIES,Cabinet,8.0,5170.76,0.0,41366.09,33663.95,7702.14,Small Business,Cash,Pending
+ORD-00363,2025-07-09,CUST-0196,Jaipur,office supplies,Shoes,7.0,2555.85,0.05,16996.43,14069.71,2926.73,Consumer,UPI,Completed
+ORD-00899,2025-04-18,CUST-0243,Bangalore,Electronics,Headphones,4.0,2662.24,0.05,10116.52,5804.74,4311.78,Corporate,Card,Cancelled
+ORD-00267,2025-05-18,CUST-0253,Bangalore,Furniture,Table,5.0,8617.43,0.1,38778.45,28435.94,10342.5,Consumer,Card,Completed
+ORD-00426,2025-07-31,CUST-0309,Jaipur,Clothing,Jacket,3.0,2610.37,0.05,7439.55,5932.95,1506.61,Corporate,UPI,Returned
+ORD-00763,,CUST-0108,Jaipur,Electronics,Headphones,2.0,2489.4,0.05,4729.87,3002.22,1727.65,Corporate,Card,Pending
+ORD-00307,2025-02-22,CUST-0053,mumbai,OFFICE SUPPLIES,Table,7.0,7787.78,0.0,54514.43,31453.76,23060.67,Consumer,UPI,Completed
+ORD-00927,2025-12-31,CUST-0275,Chennai,Electronics,Mouse,8.0,997.57,0.0,7980.56,6618.67,1361.88,Corporate,Card,Completed
+ORD-00498,2025-05-13,CUST-0096,,Furniture,Table,6.0,7187.19,0.2,34498.52,20016.8,14481.72,Corporate,UPI,Completed
+ORD-00119,2025-08-16,CUST-0228,Delhi,Clothing,Jacket,6.0,2802.7,0.05,15975.36,8914.64,7060.72,Small Business,Card,Completed
+ORD-00784,2025-04-15,CUST-0146,Bangalore,Clothing,T-Shirt,6.0,735.19,0.0,4411.11,2565.18,1845.93,Consumer,Card,Completed
+ORD-00251,2025-01-31,CUST-0317,Bengaluru,Furniture,Chair,8.0,5297.24,0.1,38140.15,27724.52,10415.62,Small Business,Bank Transfer,Returned
+ORD-00352,2025-11-05,CUST-0163,Chennai,Electronics,Monitor,1.0,11411.78,0.05,10841.19,6443.53,4397.65,Small Business,Card,Returned
+ORD-00010,2025-12-02,CUST-0256,Mumbai,electronics,Jacket,6.0,2938.75,0.05,"16,750.88",10822.84,5928.04,Consumer,Bank Transfer,Returned
+ORD-00197,2025-03-23,CUST-0256,Bangalore,Clothing,Jeans,6.0,1730.89,0.05,9866.07,7954.19,1911.88,Corporate,,Pending
+ORD-00612,2025-12-17,CUST-0330,Hyderabad,Furniture,Chair,8.0,4898.5,0.1,35269.22,30380.66,4888.55,Consumer,Bank Transfer,Pending
+ORD-00082,2025-05-03,CUST-0089,Pune,Electronics,Mouse,2.0,936.05,0.05,1778.5,1292.62,485.88,Corporate,Cash,Completed
+ORD-00383,2025-11-28,CUST-0305,delhi,Clothing,Cap,6.0,430.03,0.2,2064.14,1523.47,540.67,Consumer,UPI,Completed
+ORD-00484,2025-07-04,CUST-0123,Pune,Electronics,Monitor,3.0,12788.57,0.0,38365.7,24862.9,13502.8,Small Business,Cash,Completed
+ORD-00681,2025-01-07,CUST-0209,Hyderabad,Electronics,Headphones,2.0,2809.27,0.2,4494.84,2784.63,1710.2,Consumer,Card,Completed
+ORD-00240,2025-04-26,CUST-0154,Chennai,Furniture,Bookshelf,8.0,7415.14,0.05,56355.06,40723.43,15631.64,Consumer,Card,Pending
+ORD-00904,2025-09-01,CUST-0056,Mumbai,Furniture,Table,7.0,7863.08,0.05,52289.51,31954.88,20334.63,Small Business,UPI,Cancelled
+ORD-00212,2025-03-04,CUST-0294,Hyderabad,Clothing,Jacket,5.0,2632.09,0.1,-11844.38,8446.93,3397.46,Corporate,Bank Transfer,Pending
+ORD-00907,2025-07-20,CUST-0081,Delhi,Electronics,Keyboard,6.0,1487.22,0.15,7584.83,4224.08,-3360.75,Consumer,Cash,Completed
+ORD-00531,2025-12-19,CUST-0194,Lucknow,Office Supplies,File Folder,4.0,100.09,0.0,400.36,350.21,50.15,Corporate,UPI,Returned
+ORD-00785,2025-10-20,CUST-0093,PUNE ,Office Supplies,File Folder,1.0,93.34,0.2,74.68,52.2,22.47,Small Business,Bank Transfer,Completed
+ORD-00228,2025-12-15,CUST-0106,Lucknow,Furniture,Desk,8.0,,0.0,63601.87,45320.55,18281.32,Small Business,Bank Transfer,Completed
+ORD-00867,2025-11-17,CUST-0321,Bangalore,Furniture,Desk,5.0,9073.01,0.0,45365.06,31329.45,14035.61,Corporate,Cash,Completed
+ORD-00345,2025-05-02,CUST-0304,Chennai,Electronics,Mouse,3.0,,0.05,2772.37,1695.93,1076.45,Corporate,UPI,Returned
+ORD-00807,2025-10-23,CUST-0162,Delhi,Clothing,Jeans,1.0,1817.8,0.15,1545.13,1015.2,529.93,Small Business,Cash,Completed
+ORD-00934,2025-08-15,CUST-0323,Chennai,Furniture,Desk,6.0,7766.57,0.05,44269.44,26755.96,17513.48,Small Business,Cash,Completed
+ORD-00429,2025-07-15,CUST-0075,Delhi,Office Supplies,Stapler,2.0,154.97,0.0,309.95,218.76,,Small Business,Cash,Returned
+ORD-00542,2025-11-23,CUST-0296,Bangalore,Furniture ,Cabinet,7.0,5851.65,0.0,40961.52,34412.14,6549.38,Small Business,UPI,Returned
+ORD-00969,2025-09-15,CUST-0064,Delhi,Office Supplies,Pen,6.0,37.24,0.75,201.08,165.34,35.74,Small Business,UPI,Returned
+ORD-00738,2025-09-07,CUST-0057,Chennai,Furniture,Table,5.0,7110.82,0.15,30221.0,23279.42,6941.59,Consumer,Bank Transfer,Returned
+ORD-00653,2025-12-16,CUST-0156,Mumbai,Clothing,Shoes,6.0,2656.8,0.1,14346.7,12014.21,2332.49,Small Business,Bank Transfer,Completed
+ORD-00008,2025-11-22,CUST-0088,Jaipur,Electronics ,Pen,2.0,36.18,0.2,57.89,35.34,22.55,Small Business,Card,Completed
+ORD-00156,2025-09-18,CUST-0186,Bangalore,Clothing,Jacket,2.0,2945.07,0.15,5006.63,2883.27,2123.36,Small Business,Cash,Completed
+ORD-00548,2025-07-07,CUST-0299,Lucknow,Electronics,Headphones,3.0,2298.0,0.1,6204.61,3773.98,2430.63,Consumer,Card,Completed
+ORD-00546,2025-11-02,CUST-0009,Delhi,Clothing,Shoes,1.0,2832.05,0.1,2548.84,1948.29,600.55,Small Business,Card,Completed
+ORD-00603,2025-09-17,CUST-0013,Delhi,Electronics,Keyboard,2.0,1594.55,0.15,2710.73,2180.06,530.67,Consumer,Bank Transfer,Cancelled
+ORD-00781,2025-03-26,CUST-0162,Jaipur,Office Supplies,File Folder,6.0,86.04,0.15,438.82,275.65,163.17,Small Business,Bank Transfer,Completed
+ORD-00788,2025-08-20,CUST-0167,Delhi,OFFICE SUPPLIES,File Folder,1.0,82.35,0.2,65.88,38.32,27.57,Corporate,Card,Completed
+ORD-00573,2025-04-29,CUST-0119,Jaipur,Electronics,Monitor,4.0,11161.3,0.2,35716.17,29999.72,5716.45,Small Business,Cash,Completed
+ORD-00588,2025-01-29,CUST-0335,Pune,Office Supplies,File Folder,3.0,93.62,0.05,266.81,194.29,72.52,Consumer,UPI,Completed
+ORD-00585,2025-03-09,CUST-0104,Hyderabad,Office Supplies,Printer Paper,3.0,383.36,0.0,1150.09,741.49,408.6,Corporate,Cash,Cancelled
+ORD-00945,2025-05-11,CUST-0127,Bangalore,Office Supplies,Notebook,8.0,128.15,0.05,973.96,854.45,119.51,Corporate,Card,Completed
+ORD-00810,2025-12-11,CUST-0335,Jaipur,Clothing,Jeans,7.0,1831.2,0.15,10895.66,8619.71,2275.94,Small Business,UPI,Pending
+ORD-00423,2025-09-16,CUST-0069,Mumbai,Electronics,Monitor,8.0,10735.19,0.2,68705.19,47188.51,21516.68,Corporate,Bank Transfer,Completed
+ORD-00537,2025-01-17,CUST-0104, Delhi ,Electronics,Monitor,3.0,10351.54,0.05,29501.88,16400.05,13101.83,Consumer,Cash,Pending
+ORD-00590,2025-02-17,CUST-0154,Bangalore,Office Supplies,File Folder,6.0,97.05,0.0,582.29,424.26,158.02,Corporate,UPI,Completed
+ORD-00717,2025-06-28,CUST-0160,Mumbai,Clothing,T-Shirt,,697.66,0.15,593.01,456.66,136.35,Consumer,UPI,Completed
+ORD-00936,2025-03-26,CUST-0102,Mumbai,office supplies,Desk,8.0,9858.02,0.1,70977.75,44038.76,26938.98,Corporate,Card,Pending
+ORD-00835,2025-07-10,CUST-0157,Jaipur,Electronics,Keyboard,3.0,1415.86,0.0,4247.57,3481.98,765.59,Consumer,UPI,Completed
+ORD-00229,2025-10-16,CUST-0030,Hyderabad,Clothing,T-Shirt,7.0,597.38,0.15,3554.44,2504.66,1049.77,Consumer,Bank Transfer,Returned
+ORD-00358,2025-11-01,CUST-0315,Mumbai,Clothing,Jeans,2.0,1718.39,0.1,3093.1,2650.0,443.1,Small Business,Bank Transfer,Returned
+ORD-00738,2025-09-07,CUST-0057,Chennai,Furniture,Table,5.0,7110.82,0.15,30221.0,23279.42,6941.59,Consumer,Bank Transfer,Returned
+ORD-00213,2025-06-27,CUST-0227,Jaipur,Office Supplies,Pen,5.0,34.69,0.0,173.45,126.85,46.6,Consumer,UPI,Returned
+ORD-00080,2025-10-13,CUST-0214,Jaipur,Furniture,Cabinet,4.0,5527.75,0.0,22110.99,17474.57,4636.42,Consumer,Card,Cancelled
+ORD-00149,2025-08-25,CUST-0232,Delhi,Office Supplies,Printer Paper,2.0,486.45,0.1,875.61,543.95,331.66,Corporate,Cash,Completed
+ORD-00303,2025-04-14,CUST-0068,Hyderabad,Electronics,Mouse,1.0,797.57,0.15,677.94,475.95,201.99,Corporate,UPI,Completed
+ORD-00530,2025-02-24,CUST-0065,Delhi,Office Supplies,Notebook,3.0,119.28,0.2,286.26,216.72,69.54,Corporate,Bank Transfer,Completed
+ORD-00332,2025-08-19,CUST-0239,Mumbai,Furniture,Desk,2.0,9285.59,0.05,17642.62,11084.59,6558.03,Consumer,UPI,Pending
+ORD-00514,2025-09-04,CUST-0277,Chennai,Clothing,Tshirt,5.0,554.31,0.1,2494.38,2067.09,427.28,Small Business,Card,Completed
+ORD-00799,2025-04-05,CUST-0041,Jaipur,Clothing,Cap,3.0,466.12,0.05,1328.45,765.47,562.99,Corporate,UPI,Returned
+ORD-00892,2025-08-06,CUST-0194,Pune,Furniture,Table,4.0,7413.32,0.1,26687.97,20290.23,6397.73,Corporate,Card,Completed
+ORD-00343,2025-05-24,CUST-0030,Delhi,Office Supplies,Pen,4.0,45.15,0.0,180.61,132.52,48.09,Corporate,Bank Transfer,Cancelled
+ORD-00134,2025-12-03,CUST-0137,Pune,Office Supplies,File Folder,1.0,95.32,0.2,76.26,59.62,16.64,Corporate,Cash,Completed
+ORD-00811,2025-03-08,CUST-0089,Pune,Furniture,Cabinet,2.0,5937.37,0.15,10093.53,5751.77,4341.76,Corporate,Card,Completed
+ORD-00312,2025-09-11,CUST-0198,Jaipur,Furniture,Table,1.0,7208.56,0.05,,4861.44,1986.69,Small Business,Cash,Completed
+ORD-00661,2025-04-14,CUST-0219,Mumbai,Electronics,Laptop,4.0,50827.2,0.0,203308.81,122524.0,80784.81,Corporate,UPI,Returned
+ORD-00448,2025-12-13,CUST-0332,Jaipur,Clothing,Cap,3.0,525.21,0.1,1418.07,875.87,542.21,Small Business,UPI,Completed
+ORD-00001,,CUST-0347,Jaipur,Electronics,Laptop,4.0,52929.91,0.05,201133.67,173726.33,27407.33,Consumer,Cash,Cancelled
+ORD-00317,2025-05-06,CUST-0045,Chennai,Electronics,Keyboard,4.0,1605.61,0.0,6422.42,4660.09,1762.33,Small Business,Bank Transfer,Completed
+ORD-00716,2025-10-14,CUST-0315,Bangalore,Electronics,Mouse,4.0,887.78,0.05,3373.56,2429.46,944.1,Small Business,Cash,Pending
+ORD-00836,2025-08-04,CUST-0025,Delhi,Office Supplies,Stapler,3.0,173.55,0.2,416.53,349.77,66.76,Consumer,UPI,Completed
+ORD-00622,2025-05-31,CUST-0032,Delhi,Office Supplies,Notebook,7.0,129.75,0.05,862.86,715.12,147.74,Small Business,UPI,Cancelled
+ORD-00539,2025-02-10,CUST-0240,Mumbai,Office Supplies,Pen,4.0,38.61,0.15,131.28,101.65,29.63,Consumer,Cash,Completed
+ORD-00827,2025-05-13,CUST-0322,Mumbai,Office Supplies,Stapler,1.0,167.21,0.1,150.49,100.65,49.83,Small Business,UPI,Completed
+ORD-00406,2025-11-26,CUST-0119,Mumbai,Electronics,Monitor,2.0,13745.43,0.1,24741.77,20457.4,4284.37,Small Business,Bank Transfer,Completed
+ORD-00173,2025-08-31,CUST-0130,Lucknow,Furniture,Chair,7.0,4847.76,0.2,27147.44,20448.28,6699.16,Corporate,Cash,Returned
+ORD-00126,2025-08-07,CUST-0056,Delhi,Office Supplies,Stapler,8.0,168.9,0.15,1148.52,777.64,370.88,Consumer,Bank Transfer,Returned
+ORD-00658,2025-03-18,CUST-0297,Mumbai,Electronics,Headphones,8.0,2464.24,0.2,15771.13,12023.6,3747.53,Consumer,Card,Completed
+ORD-00502,2025-06-03,CUST-0129,Bangalore,Clothing,Shoes,6.0,2779.71,0.15,14176.52,11222.62,2953.9,Small Business,Cash,Pending
+ORD-00559,2025-01-28,CUST-0125,Bangalore,Furniture,Bookshelf,2.0,5703.4,0.0,11406.8,9576.72,1830.08,Small Business,Card,Completed
+ORD-00914,2025-02-09,CUST-0054,Hyderabad,Furniture ,Mouse,2.0,776.33,0.1,1397.39,1215.17,182.22,Corporate,UPI,Pending
+ORD-00091,2025-05-10,CUST-0166,Delhi,Clothing,Cap,2.0,476.16,0.1,857.09,503.49,353.59,Corporate,Cash,Pending
+ORD-00950,2025-10-18,CUST-0109,Hyderabad,Furniture,Desk,2.0,8609.54,0.15,14636.22,11835.59,2800.62,Consumer,Card,Completed
+ORD-00182,2025-09-23,CUST-0199,Mumbai,Office Supplies,Pen,3.0,39.5,0.15,100.72,73.53,-27.19,Consumer,Cash,Completed
+ORD-00275,2025-01-19,CUST-0185,Chennai,Clothing,Cap,7.0,503.05,0.2,2817.06,2267.35,549.71,Small Business,Cash,Completed
+ORD-00906,2025-04-30,CUST-0150,Mumbai,Furniture,Desk,5.0,9432.82,0.05,44805.88,35945.2,8860.68,Corporate,Cash,Pending
+ORD-00070,2025-01-15,CUST-0254,Pune,Office Supplies,Stapler,7.0,172.64,0.1,1087.61,946.97,140.64,Corporate,UPI,Completed
+ORD-00292,2025-08-23,CUST-0290,Jaipur,Office Supplies,laptop,5.0,119.73,0.05,568.74,374.51,194.23,Consumer,Bank Transfer,Cancelled
+ORD-00132,2025-05-28,CUST-0308,Lucknow,Electronics,Headphones,7.0,2230.06,0.0,15610.44,11255.89,4354.55,Small Business,UPI,Completed
+ORD-00301,2025-06-15,CUST-0146,MUMBAI,Clothing,Jeans,8.0,1621.22,0.1,11672.82,7493.19,4179.63,Consumer,UPI,Cancelled
+ORD-00431,2025-07-19,CUST-0122,Hyderabad,Electronics,Keyboard,4.0,1732.25,0.2,5543.21,3877.95,1665.26,Consumer,UPI,Returned
+ORD-00327,2025-06-21,CUST-0001,Delhi,Electronics,Headphones,6.0,2565.13,0.0,15390.79,12250.99,3139.8,Consumer,Bank Transfer,Returned
+ORD-00145,2025-04-24,CUST-0171,Mumbai,Clothing,Cap,5.0,467.98,0.1,2105.92,1568.85,537.06,Corporate,Card,Completed
+ORD-00430,2025-03-16,CUST-0032,Jaipur,Electronics,Mouse,5.0,917.51,0.1,4128.78,2360.36,1768.42,Consumer,UPI,Completed
+ORD-00589,2025-02-25,CUST-0214,Jaipur,Furniture,Chair,2.0,5419.77,0.0,10839.54,6344.42,4495.12,Corporate,Card,Completed
+ORD-00967,2025-09-24,CUST-0340,Chennai,Furniture,Table,6.0,7636.49,0.05,43527.97,32609.02,10918.95,Corporate,Card,Completed
+ORD-00136,2025-08-03,CUST-0233,Mumbai,Furniture,Chair,4.0,5464.04,0.15,18577.74,15184.28,3393.46,,UPI,Completed
+ORD-00987,2025-10-10,CUST-0111,Jaipur,Furniture,Desk,3.0,8387.29,0.2,20129.5,14512.68,5616.81,Consumer,UPI,Completed
+ORD-00165,2025-08-30,CUST-0072,Bangalore,Electronics,Tshirt,1.0,1561.41,0.1,1405.27,887.78,517.49,Consumer,Bank Transfer,Pending
+ORD-00029,2025-07-26,CUST-0062,Mumbai,Electronics,Mouse,2.0,788.89,0.05,1498.9,921.33,577.56,Small Business,Card,Cancelled
+ORD-00569,2025-06-18,CUST-0230,Bangalore,Furniture,Cabinet,5.0,6632.17,0.2,26528.69,18925.52,7603.17,Corporate,Card,Completed
+ORD-00194,2025-11-07,CUST-0074,Hyderabad,Clothing,Shoes,4.0,2336.53,0.1,8411.49,5118.86,3292.64,,UPI,Returned
+ORD-00395,2025-06-14,CUST-0272,Pune,Electronics,Laptop,6.0,54373.1,0.0,326238.57,281414.54,44824.04,Small Business,Card,Completed
+ORD-00809,2025-09-17,CUST-0113,Hyderabad,Office Supplies,Pen,8.0,45.93,0.05,349.07,268.22,80.84,Corporate,UPI,Cancelled
+ORD-00170,2025-07-02,CUST-0035,Chennai,Clothing,T-Shirt,5.0,694.58,0.0,3472.88,2022.21,1450.67,Corporate,UPI,Completed
+ORD-00496,2025-10-04,CUST-0017,Bangalore,Furniture,Cabinet,7.0,6538.95,0.15,38906.74,30318.07,8588.67,Consumer,UPI,Pending
+ORD-00141,2025-08-09,CUST-0090,Lucknow,Office Supplies,Printer Paper,1.0,502.65,0.15,427.25,282.64,144.61,Consumer,Card,Pending
+ORD-00174,2025-03-05,CUST-0189,Lucknow,Furniture,Bookshelf,6.0,6763.43,0.1,36522.54,20633.42,15889.12,Consumer,Bank Transfer,Pending
+ORD-00007,2025-11-22,CUST-0187,Mumbai,Furniture ,Mouse,5.0,989.76,0.15,4206.48,2608.32,1598.16,Corporate,Card,Completed
+ORD-00650,2025-05-09,CUST-0229,Delhi,Office Supplies,Notebook,2.0,124.91,0.2,199.86,156.52,43.34,,Cash,Pending
+ORD-00486,2025-05-22,CUST-0116,Jaipur,Electronics,,6.0,57700.57,0.1,311583.1,267697.81,43885.29,Small Business,Card,Pending
+ORD-00074,2025-12-26,CUST-0233,Lucknow,Office Supplies,Stapler,6.0,185.92,0.1,1003.95,718.71,285.24,Corporate,UPI,Completed
+ORD-00771,2025-03-29,cust-0291,Jaipur,Clothing,Cap,2.0,531.36,0.1,956.44,559.78,396.67,Consumer,Cash,Completed
+ORD-00421,2025-07-29,CUST-0055,Delhi,electronics,Notebook,8.0,102.47,0.05,778.78,598.86,179.92,Consumer,UPI,Cancelled
+ORD-00239,2025-09-26,CUST-0164,Hyderabad,Clothing,Cap,6.0,436.07,0.15,2223.95,1629.65,594.3,Consumer,Bank Transfer,Pending
+ORD-00146,2025-05-01,CUST-0053,Pune,Electronics,Monitor,6.0,10309.8,0.05,58765.87,33045.51,25720.36,Corporate,Card,Completed
+ORD-00802,2025-04-18,CUST-0247,Mumbai,Electronics,,4.0,826.2,0.0,3304.79,2204.79,1100.0,Consumer,Card,Returned
+ORD-00235,2025-01-09,CUST-0124,Mumbai,Office Supplies,Pen,7.0,36.68,0.2,205.43,178.28,27.14,,Card,Completed
+ORD-00221,2025-11-09,CUST-0328,Lucknow,Furniture,Chair,4.0,4377.26,0.05,16633.57,14564.21,2069.37,Corporate,Bank Transfer,Pending
+ORD-00483,2025-01-06,CUST-0104,Delhi,Office Supplies,File Folder,8.0,84.29,0.15,573.2,382.54,190.66,Consumer,UPI,Completed
+ORD-00508,2025-10-28,CUST-0267,Chennai,Office Supplies,Printer Paper,8.0,477.75,0.1,3439.82,2942.19,497.63,Corporate,Bank Transfer,Pending
+ORD-00133,2025-02-25,CUST-0180,Pune,Electronics,Monitor, 8 ,13358.54,0.05,101524.93,80656.85,20868.08,Consumer,UPI,Completed
+ORD-00741,2025-07-02,CUST-0211,Chennai,Electronics,Keyboard,7.0,1752.56,0.1,11041.13,6510.61,4530.52,Consumer,UPI,Completed
+ORD-00515,2025-06-05,CUST-0006,Lucknow,Clothing,Jacket,5.0,2837.19,0.05,13476.65,11098.59,2378.06,,Cash,Cancelled
+ORD-00186,2025-02-14,CUST-0034,Lucknow,Electronics,Keyboard,3.0,1408.37,0.2,3380.1,1879.38,1500.72,,UPI,Pending
+ORD-00042,,CUST-0143,Pune,Furniture,Chair,6.0,4746.35,0.1,25630.27,14634.23,10996.05,Corporate,UPI,Returned
+ORD-00619,2025-07-14,CUST-0168,Mumbai,Office Supplies,Stapler,2.0,199.68,0.2,319.48,225.6,93.88,Small Business,Bank Transfer,Returned
+ORD-00109,2025-12-04,CUST-0203,Jaipur,Office Supplies,File Folder,5.0,85.29,0.0,426.43,339.58,86.85,Small Business,UPI,Completed
+ORD-00597,2025-07-22,CUST-0292,Mumbai,Office Supplies,Notebook,6.0,114.45,0.1,618.04,466.56,151.48,Small Business,Cash,Completed
+ORD-00057,2025-08-04,CUST-0200,Hyderabad,Clothing,Jacket,1.0,3386.73,0.05,3217.39,2627.58,589.81,Corporate,Cash,Cancelled
+ORD-00412,2025-08-14,CUST-0024,Hyderabad,OFFICE SUPPLIES,Mouse,2.0,855.04,0.15,1453.58,990.46,463.12,Corporate,Cash,Completed
+ORD-00449,2025-10-08,CUST-0044,Delhi,Furniture,Chair,7.0,4689.72,0.2,26262.44,22212.53,4049.91,Consumer,UPI,Completed
+ORD-00576,2025-09-08,CUST-0167,Mumbai,Furniture,Desk,8.0,9562.58,0.2,61200.51,50564.74,10635.77,Consumer,Bank Transfer,Completed
+ORD-00871,2025-02-22,CUST-0347,Delhi,Electronics,Headphones,7.0,2745.65,0.0,19219.57,15223.69,3995.89,Corporate,Cash,Cancelled
+ORD-00025,2025-07-28,CUST-0249,Delhi,Electronics,Laptop,4.0,55770.72,0.05,211928.73,129488.87,82439.86,Consumer,Bank Transfer,Completed
+ORD-00424,2025-04-01,CUST-0297,Chennai,Electronics,Monitor,8.0,10507.26,0.2,67246.46,59107.52,8138.94,Small Business,Card,Returned
+ORD-00535,2025-02-02,CUST-0338,Lucknow,Furniture,Chair,4.0,4781.93,0.1,17214.96,11100.01,6114.95,Small Business,Bank Transfer,Completed
+ORD-00595,2025-11-12,CUST-0213,Hyderabad,Electronics,Laptop,2.0,51715.9,0.05,98260.21,77006.21,21254.0,Small Business,Bank Transfer,Completed
+ORD-00627,2025-09-18,CUST-0218,Chennai,Clothing,Shoes,3.0,2212.98,0.15,5643.1,3336.83,2306.27,Small Business,Bank Transfer,Pending
+ORD-00919,2025-03-20,CUST-0226,Mumbai,Clothing,Jeans,1.0,1599.17,0.1,1439.25,952.25,487.0,Small Business,UPI,Completed
+ORD-00937,2025-08-18,CUST-0326,Pune,Furniture,Cabinet,5.0,6010.53,0.2,24042.14,19893.24,4148.9,Corporate,Card,Completed
+ORD-00339,2025-07-01,CUST-0110,Delhi,Clothing,Shoes,7.0,2209.03,0.05,14690.04,10008.21,4681.83,Corporate,Card,Completed
+ORD-00052,2025-04-01,CUST-0266,Delhi,Furniture,Desk,7.0,8498.76,0.05,56516.76,40569.33,15947.43,Consumer,Bank Transfer,Completed
+ORD-00384,2025-05-22,CUST-0134,Mumbai,Electronics,Headphones,5.0,2696.84,0.1,12135.8,10185.97,1949.83,Corporate,UPI,Completed
+ORD-00961,2025-08-17,CUST-0060,Jaipur,Clothing,T-Shirt,8.0,741.08,0.05,5632.21,3103.7,2528.51,Small Business,Bank Transfer,Returned
+ORD-00931,2025-04-14,CUST-0078,Bangalore,Electronics,Laptop,8.0,59561.38,0.1,428841.96,328721.69,100120.27,Corporate,Bank Transfer,Completed
+ORD-00742,2025-02-13,CUST-0034,Pune,Furniture,Desk,5.0,9120.12,0.2,36480.48,20133.59,16346.89,Small Business,UPI,Completed
+ORD-00265,2025-07-01,CUST-0284,Chennai,Clothing,Shoes,1.0,2167.28,0.0,2167.28,1810.46,356.82,Consumer,Cash,Cancelled
+ORD-00544,2025-06-16,CUST-0191,Hyderabad,Furniture,Cabinet,6.0,6204.14,0.2,29779.87,18020.43,11759.44,Corporate,Bank Transfer,Returned
+ORD-00902,2025-12-20,CUST-0276,Banglore,Office Supplies,Printer Paper,7.0,430.19,0.15,2559.62,1658.27,901.35,Corporate,UPI,Completed
+ORD-00834,2025-07-09,CUST-0061,Hyderabad,Furniture,Table,3.0,6844.15,0.2,16425.96,14078.63,2347.33,Consumer,Bank Transfer,Completed
+ORD-00963,2025-12-10,CUST-0064,Pune,Clothing,Jacket,5.0,3264.78,0.15,13875.3,8057.21,5818.1,Small Business,Card,Cancelled
+ORD-00524,2025-07-17,CUST-0227,,Furniture,Bookshelf,2.0,5979.27,0.05,11360.61,6339.82,5020.8,Consumer,Card,Returned
+ORD-00454,2025-01-03,CUST-0161,Lucknow,Furniture,Cabinet,7.0,6571.4,0.05,43699.8,28964.22,14735.58,Corporate,Card,Completed
+ORD-00019,2025-02-02,CUST-0174,Hyderabad,Office Supplies,Stapler,4.0,169.45,0.05,643.91,374.9,269.0,Consumer,,Cancelled
+ORD-00903,2025-10-18,CUST-0323,Delhi,Electronics,mouse,3.0,11458.93,0.1,30939.12,24925.65,6013.46,Consumer,Bank Transfer,Pending
+ORD-00491,2025-02-08,CUST-0284,Jaipur,Office Supplies,Pen,7.0,,0.1,239.47,192.63,46.84,Consumer,Card,Pending
+ORD-00581,2025-08-19,CUST-0013,Bangalore,Electronics,Mouse,7.0,987.97,0.1,6224.21,3688.02,2536.2,Corporate,Card,Pending
+ORD-00440,2025-05-25,CUST-0013,,Office Supplies,,5.0,154.46,0.2,617.85,385.08,232.78,Corporate,UPI,Cancelled
+ORD-00368,2025-11-18,CUST-0076,Mumbai,Electronics,Headphones,7.0,2394.12,0.05,15920.92,13365.23,2555.69,Small Business,UPI,Completed
+ORD-00084,2025-11-17,CUST-0302,Mumbai,Office Supplies,Stapler,4.0,170.32,0.1,613.16,374.98,238.18,Small Business,Card,Pending
+ORD-00062,2025-02-11,CUST-0241,Chennai,Office Supplies,Printer Paper,7.0,425.43,0.1,2680.21,1571.45,1108.76,Corporate,Cash,Returned
+ORD-00968,2025-04-23,CUST-0256,Hyderabad,Clothing,T-Shirt,3.0,737.06,0.1,1990.06,1623.18,366.87,Corporate,Bank Transfer,Completed
+ORD-00273,2025-08-13,CUST-0150,Delhi,Furniture,laptop,8.0,6212.63,0.05,47215.99,31549.43,15666.56,Small Business,Cash,Pending
+ORD-00286,2025-06-30,CUST-0235,Chennai,Clothing,Cap,2.0,502.1,0.1,903.78,730.8,172.98,Small Business,Card,Returned
+ORD-00361,2025-02-14,CUST-0151,Delhi,Clothing,Jeans,1.0,2036.7,0.15,1731.2,1055.7,675.5,Corporate,Bank Transfer,Completed
+ORD-00355,2025-03-27,CUST-0212,Delhi,Electronics,Laptop,8.0,50951.57,0.15,346470.68,268478.71,77991.97,Corporate,Bank Transfer,Pending
+ORD-00723,2025-10-24,CUST-0008,Pune,Furniture,Cabinet,2.0,6662.66,0.0,13325.31,8107.91,5217.4,Small Business,Card,Returned
+ORD-00279,2025-06-09,CUST-0176,Mumbai,Clothing,T-Shirt,3.0,623.14,0.1,1682.49,941.35,741.14,Small Business,Bank Transfer,Completed
+ORD-00013,2025-08-28,CUST-0271,Mumbai,Furniture,Table,7.0,7401.16,0.2,41446.48,33534.68,7911.8,Corporate,UPI,Cancelled
+ORD-00183,2025-04-13,CUST-0063,Pune,Office Supplies,Stapler,5.0,203.84,0.15,866.32,586.85,279.46,Small Business,Card,Completed
+ORD-00369,2025-06-16,CUST-0142,Chennai,Electronics,Laptop,7.0,53225.34,0.2,298061.93,244255.14,53806.79,Small Business,Bank Transfer,Completed
+ORD-00500,2025-10-20,CUST-0068,Chennai,Office Supplies,Printer Paper,8.0,510.78,0.05,3881.94,2706.42,1175.52,Corporate,Card,Completed
+ORD-00679,2025-10-24,CUST-0114,Pune,Electronics,Headphones,6.0,2800.53,0.15,14282.68,9843.17,4439.52,Consumer,Card,Cancelled
+ORD-00224,2025-06-07,CUST-0082,Delhi,Office Supplies,Pen,2.0,45.83,0.15, 77.91 ,62.22,15.69,Small Business,Bank Transfer,Returned
+ORD-00665,2025-05-26,CUST-0214,Delhi,Electronics,Laptop,2.0,57618.68,0.2,92189.89,65860.88, 26329.01 ,Consumer,Bank Transfer,Returned
+ORD-00708,2025-01-14,CUST-0002,Jaipur,Office Supplies,File Folder,8.0,90.84,0.05,690.4,593.11,97.29,Corporate,Card,Completed
+ORD-00718,2025-03-02,CUST-0114,Lucknow,Clothing,,5.0,445.95,0.0,2229.74,1248.41,981.33,,Card,Returned
+ORD-00552,2025-10-04,CUST-0290,Jaipur,Clothing,T-Shirt,1.0,780.6,0.1,702.54,601.48,101.05,Small Business,Card,Completed
+ORD-00591,2025-08-30,CUST-0069,Chennai,Clothing,T-Shirt,2.0,797.23,0.1,1435.01,951.15,483.86,Small Business,Cash,Returned
+ORD-00617,2025-12-22,CUST-0121,Chennai,Office Supplies,Pen,6.0,36.56,0.2,175.47,98.31,77.16,Corporate,Card,Returned
+ORD-00177,2025-12-20,CUST-0228,Jaipur,Office Supplies,Printer Paper,7.0,471.42,0.05,3134.97,1892.79,1242.17,Corporate,UPI,Pending
+ORD-00674,2025-08-12,CUST-0075,Hyderabad,Furniture,Chair,8.0,4768.9,0.0,38151.22,25654.51,12496.71,Small Business,Card,Cancelled
+ORD-00636,2025-09-06,CUST-0093,Lucknow,Furniture,Table,5.0,7938.71,0.05,37708.87,31443.18,6265.69,Consumer,Cash,Completed
+ORD-00594,2025-04-30,CUST-0149,Hyderabad,Clothing,Cap,3.0,528.18,0.2,1267.64,725.58,542.06,Corporate,Card,Completed
+ORD-00457,2025-10-24,CUS-0208,Delhi,Electronics,Laptop,1.0,57048.46,0.2,45638.77,31267.39,14371.38,Small Business,Card,Completed
+ORD-00527,2025-05-01,CUST-0325,Lucknow,Office Supplies,Pen,4.0,45.27,0.0,181.08,147.32,33.75,Consumer,Bank Transfer,Completed
+ORD-00394,2025-07-26,CUST-0220,Mumbai,Furniture,Table,7.0,7687.63,0.15,45741.41,31208.49,14532.92,Consumer,Bank Transfer,Pending
+ORD-00164,2025-07-11,CUST-0115,Lucknow,Electronics,Headphones,7.0,2540.77,0.0, 17785.36 ,13372.24,4413.12,Consumer,Cash,Completed
+ORD-00249,2025-10-05,CUST-0329,Bangalore,Furniture,Bookshelf,8.0,6663.13,0.05,50639.78,29150.91,21488.87,Consumer,Cash,Cancelled
+ORD-00847,2025-04-14,CUST-0123,Jaipur,Clothing,Jacket,2.0,2908.8,0.0,5817.59,3480.69,2336.91,Corporate,Card,Pending
+ORD-00896,2025-03-02,CUST-0037,Mumbai,Electronics,Keyboard,4.0,1432.08,0.0,5728.32,4544.58,1183.74,Corporate,UPI,Completed
+ORD-00678,2025-10-30,CUST-0243,PUNE ,Furniture,Chair,8.0,4980.0,0.05,37848.03,31725.34,6122.69,Small Business,Bank Transfer,Completed
+ORD-00376,2025-04-09,CUST-0103,PUNE ,Office Supplies,File Folder,1.0,79.66,0.05,75.67,65.09,10.58,Consumer,Cash,Completed
+ORD-00413,2025-09-25,CUST-0317,Pune,Office Supplies,Notebook,6.0,121.35,0.2,582.46,497.16,85.3,Small Business,Cash,Pending
+ORD-00075,2025-03-03,CUST-0275,Mumbai,Office Supplies,Pen,4.0,34.62,0.1,124.62,80.0,44.62,Small Business,Card,Completed
+ORD-00114,2025-05-16,CUST-0275,Lucknow,Furniture,Laptop ,7.0,8564.27,0.0,59949.92,40749.29,19200.62,Consumer,Cash,Pending
+ORD-00577,2025-07-21,CUST-0314,Delhi,Clothing,Shoes,7.0,2648.1,0.1,16683.05,12920.13,3762.92,Small Business,Cash,Cancelled
+ORD-00960,2025-09-24,CUST-0293,Chennai,Clothing,T-Shirt,4.0,677.22,0.05,2573.44,1765.8,807.63,Corporate,Cash,Completed
+ORD-00391,2025-06-02,CUST-0212,Mumbai,Furniture,Cabinet,7.0,6349.11,0.2,35555.0,25923.12,9631.88,Small Business,Cash,Completed
+ORD-00105,2025-11-09,CUST-0196,Bangalore,Clothing,Cap,3.0,425.76,0.0,1277.28,770.28,506.99,Consumer,Card,Pending
+ORD-00115,2025-12-12,CUST-0120,Chennai,Office Supplies,Printer Paper,6.0,502.93,0.0,3017.56,2288.14,729.42,Small Business,Bank Transfer,Completed
+ORD-00418,2025-11-06,CUST-0317,Delhi,Clothing,Shoes,,2498.78,0.0,2498.78,1719.77,779.0,Small Business,UPI,Cancelled
+ORD-00657,2025-01-19,CUST-0174,Jaipur,Electronics,Monitor,8.0,12171.33,0.0,97370.66,79815.54,17555.13,Corporate,Cash,Completed
+ORD-00458,2025-07-20,CUST-0115,Hyderabad,Office Supplies,File Folder,3.0,91.41,0.1,246.79,171.26,75.54,Small Business,UPI,Completed
+ORD-00410,2025-03-09,CUST-0031,Chennai,Clothing,Shoes,3.0,2166.07,0.0,6498.21,4292.82,2205.4,Small Business,Card,Completed
+ORD-00093,2025-08-13,CUST-0249,Pune,Clothing,T-Shirt,3.0,649.17,0.1,1752.75,1345.75,407.0,Corporate,Cash,Completed
+ORD-00571,2025-06-12,CUST-0075,Mumbai,Furniture,Bookshelf,2.0,7133.13,0.05,13552.94,9009.69,4543.26,Small Business,Cash,Completed
+ORD-00090,2025-12-22,CUST-0254,Mumbai,Office Supplies,Printer Paper,6.0,508.96,0.15,2595.69,1545.43,1050.26,Consumer,UPI,Returned
+ORD-00337,2025-04-12,CUST-0331,Jaipur,Office Supplies,Notebook,1.0,104.89,0.0,104.89,75.84,29.04,Consumer,Bank Transfer,Completed
+ORD-00522,2025-06-09,CUST-0256,Hyderabad,Furniture,Chair,6.0,4728.13,0.15,24113.46,18242.89,5870.56,Consumer,UPI,Pending
+ORD-00932,2025-05-23,CUST-0163,Hyderabad,Electronics,Mouse,6.0,812.91,0.05,4633.56,3381.85,1251.72,Small Business,Cash,Cancelled
+ORD-00944,2025-05-07,CUST-0125,Delhi,Clothing,Jacket,7.0,2558.4,0.15,15222.47,9611.53,5610.94,Small Business,Bank Transfer,Completed
+ORD-00614,2025-06-29,CUST-0246,Delhi,Clothing,Shoes,8.0,2423.2,0.0,19385.57,12416.28,6969.29,Consumer,Bank Transfer,Completed
+ORD-00602,2025-06-04,CUST-0111,Hyderabad,Clothing,T-Shirt,6.0,599.65,0.15,3058.19,2008.6,1049.6,Consumer,UPI,Completed
+ORD-00986,2025-12-06,CUST-0023,Lucknow,Office Supplies,File Folder,4.0,77.15,0.0,308.61,254.44,54.17,Small Business,Card,Completed
+ORD-00095,2025-12-28,CUST-0140,Bangalore,Clothing,T-Shirt,5.0,706.23,0.2,2824.91,1779.16,1045.75,Corporate,Bank Transfer,Pending
+ORD-00012,2025-01-25,CUST-0057,Pune,Clothing,Jacket,8.0,2812.93,0.0,22503.44,15097.55,7405.9,Consumer,Card,Returned
+ORD-00397,2025-08-22,CUST-0267,Mumbai,Office Supplies,Pen,5.0,40.07,0.1,180.32,135.56,44.76,Consumer,UPI,Pending
+ORD-00540,2025-01-21,CUST-0037,Delhi,Clothing,Jacket,5.0,2746.43,0.2,10985.71,9486.02,1499.69,Small Business,UPI,Completed
+ORD-00044,2025-11-07,CUST-0262,Banglore,Electronics,Monitor,6.0,12826.58,0.15,65415.57,49741.6,15673.97,Corporate,Cash,Pending
+ORD-00043,2025-04-02,CUST-0298,Lucknow,Clothing,Cap,2.0,471.65,0.1,848.97,558.03,290.93,Consumer,UPI,Completed
+ORD-00330,,CUST-0067,Mumbai,Furniture,Table,1.0,7828.31,0.15,6654.07,4913.08,1740.99,Small Business,Card,Completed
+ORD-00168,2025-05-30,CUST-0220,Delhi,Electronics,Headphones,4.0,2159.5,0.05,8206.11,4623.65,3582.45,Small Business,Cash,Cancelled
+ORD-00957,2025-07-08,CUST-0232,Mumbai,Furniture,Chair,5.0,5744.5,0.05,27286.38,18323.96,8962.43,Small Business,Bank Transfer,Cancelled
+ORD-00887,2025-09-30,CUST-0194,Bangalore,Electronics,Laptop,4.0,61469.4,0.05,233583.71,202110.75,31472.96,Consumer,UPI,Completed
+ORD-00606,2025-10-23,CUST-0160,Mumbai,Clothing,T-Shirt,5.0,684.5,0.0,3422.49,2392.18,1030.31,,Card,Completed
+ORD-00766,2025-11-25,CUST-0070,Delhi,Office Supplies,Stapler,3.0,169.81,0.15,433.02,325.37,107.64,Consumer,Cash,Pending
+ORD-00101,2025-06-23,CUST-0320,Bangalore,Furniture,Table,8.0,7819.57,0.1,56300.91,32528.76,23772.15,Consumer,Bank Transfer,Returned
+ORD-00427,2025-05-29,CUST-0177,Pune,Office Supplies,File Folder,4.0,82.17,0.2,262.94,222.54,40.4,Consumer,Card,Returned
+ORD-00179,2025-03-06,CUST-0035,Bangalore,Furniture,Chair,8.0,4289.77,0.0,34318.14,25508.87,8809.26,Small Business,Card,Returned
+ORD-00445,2025-10-01,CUS-0004,,Clothing,Shoes,7.0,2199.58,0.0,15397.07,9703.95,5693.11,Consumer,Cash,Returned
+ORD-00417,2025-09-12,CUST-0335,Hyderabad,Clothing,T-Shirt,6.0,624.58,0.0,3747.48,2279.25,1468.23,Corporate,Cash,Completed
+ORD-00656,2025-10-31,CUST-0123,Bangalore,Clothing,Jeans,4.0,1573.26,0.0,6293.05,5319.45,973.6,Consumer,Bank Transfer,Pending
+ORD-00893,2025-08-16,CUST-0266,Mumbai,Office Supplies,File Folder,2.0,94.3,0.1,169.74,143.5,26.24,Consumer,UPI,Completed
+ORD-00667,2025-02-15,CUST-0322,Bangalore,Electronics,Monitor,8.0,11022.44,0.2,70543.6,61993.02,8550.58,Small Business,UPI,Completed
+ORD-00178,2025-12-10,CUST-0327,Chennai,Electronics,Keyboard,1.0,1393.87,0.0,1393.87,1062.13,331.74,Corporate,Bank Transfer,Completed
+ORD-00396,2025-03-08,CUST-0053,Pune,Electronics,Mouse,6.0,806.4,0.1,4354.59,3237.44,1117.14,Small Business,Bank Transfer,Cancelled
+ORD-00685,2025-12-12,CUST-0187,Lucknow,Furniture,Chair,1.0,4519.52,0.2,3615.62,2272.02,1343.6,Small Business,Cash,Completed
+ORD-00804,2025-08-30,CUST-0011,Bangalore,Electronics,Mouse,8.0,783.26,0.15,5326.14,4336.1,990.03,Small Business,Bank Transfer,Cancelled
+ORD-00973,2025-03-09,CUST-0166,Pune,Office Supplies,Printer Paper,7.0,488.96,0.0,3422.74,2466.77,955.98,Small Business,Cash,Returned
+ORD-00693,2025-06-05,CUST-0291,Hyderabad,Office Supplies,Printer Paper,8.0,471.16,0.15,3203.88,2105.95,1097.93,Small Business,Card,Completed
+ORD-00621,2025-06-03,CUST-0292,Hyderabad,Office Supplies,Stapler,4.0,199.91,0.1,719.66,580.25,139.41,Consumer,UPI,Pending
+ORD-00258,2025-04-17,CUST-0301,Delhi,Office Supplies,File Folder,6.0,77.72,0.0,466.33,260.54,205.79,Consumer,Card,Returned
+ORD-00336,2025-04-24,CUST-0067,Bangalore,Clothing,T-Shirt,1.0,631.41,0.0,631.41,534.13,97.28,Consumer,Card,Pending
+ORD-00016,2025-01-10,CUST-0058,Delhi,Office Supplies,Pen,6.0,41.29,0.15,210.58,127.67,82.91,Small Business,UPI,Completed
+ORD-00976,2025-04-02,CUST-0027,Delhi,Clothing,Jeans,6.0,1577.84,0.15,8047.01,5011.69,3035.31,Consumer,Cash,Cancelled
+ORD-00325,2025-07-08,CUST-0103,Lucknow,Office Supplies,Printer Paper,8.0,489.04,0.0,3912.3,2795.29,1117.02,Consumer,UPI,Cancelled
+ORD-00768,2025-03-30,CUST-0304,MUMBAI,Clothing,Jacket,3.0,2922.19,0.1,7889.92,4656.81,3233.11,Corporate,UPI,Completed
+ORD-00223,2025-06-18,CUST-0155,MUMBAI,Electronics,Keyboard,8.0,1750.14,0.1,12601.04,10869.55,1731.48,Consumer,Cash,Completed
+ORD-00180,2025-03-20,CUST-0348,delhi,Office Supplies,Printer Paper,1.0,509.43,0.2,407.54,301.55,106.0,Small Business,Bank Transfer,Completed
+ORD-00996,2025-11-24,CUST-0190,Bangalore,Furniture,Desk,5.0,"9,716.88",0.0,48584.42,29269.19, 19315.24 ,Corporate,Card,Returned
+ORD-00522,2025-06-09,CUST-0256,Hyderabad,Furniture,Chair,6.0,4728.13,0.15,24113.46,18242.89,5870.56,Consumer,UPI,Pending
+ORD-00023,2025-05-08,CUST-0099,Delhi,Electronics,Laptop,6.0,51019.87,0.0,306119.22,235293.14,70826.08,Corporate,Card,Cancelled
+ORD-00357,2025-02-23,CUST-0038,Jaipur,Electronics,Laptop,6.0,54531.01,0.1,294467.44,201977.42,92490.01,Consumer,UPI,Completed
+ORD-00874,2025-11-01,CUST-0035,Pune,Office Supplies,File Folder,2.0,77.02,0.0,154.04,97.93,56.11,Consumer,Card,Cancelled
+ORD-00928,2025-06-20,CUST-0090,Lucknow,Electronics,Monitor,7.0,13508.14,0.05,89829.1,56883.34,32945.76,Small Business,UPI,Returned
+ORD-00341,2025-11-26,CUST-0270,Chennai,Electronics,Keyboard,7.0,1752.19,0.05,11652.09,7400.34,4251.76,Consumer,Card,Returned
+ORD-00432,2025-01-28,CUST-0007,Chennai,Electronics,mouse,6.0,2518.29,0.2,12087.8,8406.48,3681.32,Corporate,UPI,Completed
+ORD-00558,2025-03-16,CUST-0226,Bangalore,Electronics,Keyboard,8.0,1644.61,0.2,10525.51,7803.91,2721.6,Corporate,Cash,Completed
+ORD-00844,2025-02-28,CUST-0051,Lucknow,Clothing,T-Shirt,5.0,788.78,0.0,3943.9,2803.05,1140.85,Corporate,Card,Completed
+ORD-00204,2025-07-21,CUST-0316,Bangalore,Clothing,,6.0,1740.17,0.05,9918.96,5490.9,4428.06,Corporate,UPI,Cancelled
+ORD-00639,2025-12-16,CUST-0200,Hyderabad,Clothing,Jacket,4.0,2767.84,0.15,9410.66,8239.96,1170.7,Small Business,Bank Transfer,Completed
+ORD-00094,2025-07-28,CUST-0048,Jaipur,Furniture,Desk,,9856.5,0.2,7885.2,5781.56,2103.64,Small Business,Card,Completed
+ORD-00941,2025-01-03,CUST-0007,Hyderabad,Office Supplies,Pen,3.0,42.27,0.05,120.46,100.97,19.49,Consumer,UPI,Pending
+ORD-00069,2025-05-18,CUST-0166,Hyderabad,Office Supplies,File Folder,7.0,90.51,0.2,506.84,396.35,110.49,Corporate,Card,Completed
+ORD-00631,2025-10-01,CUST-0006,Jaipur,Electronics,Monitor,1.0,11168.38,0.1,10051.54,8173.86,1877.68,Small Business,Bank Transfer,Pending
+ORD-00285,2025-09-28,CUST-0328,Hyderabad,Office Supplies,Pen,5.0,44.85,0.15,190.61,126.74,63.87,Consumer,UPI,Cancelled
+ORD-00815,2025-08-23,CUST-0057,Mumbai,Office Supplies,Pen,1.0,35.16,0.15,29.89,20.88,9.01,Small Business,Cash,Cancelled
+ORD-00435,2025-06-19,CUST-0239,Bangalore,Office Supplies,Pen,5.0,44.34,0.0,221.71,191.16,30.55,Small Business,Card,Completed
+ORD-00154,2025-03-18,CUST-0171,Chennai,Office Supplies,Notebook,5.0,120.59,0.2,482.35,316.7,165.65,Corporate,Cash,Cancelled
+ORD-00076,2025-04-10,CUST-0152,Jaipur,Furniture,Table,5.0,8418.6,0.0,42092.99,26478.82,15614.17,Small Business,Card,Completed
+ORD-00740,2025-01-24,CUST-0066,Lucknow,Office Supplies,Printer Paper,1.0,490.2,0.2,392.16,272.06,120.1,Consumer,UPI,Completed
+ORD-00447,2025-03-22,CUST-0274,Chennai,Clothing,Shoes,1.0,2747.66,0.15,2335.52,1590.65,744.86,Small Business,Card,Completed
+ORD-00189,2025-06-27,CUST-0266,Bangalore,Furniture,Bookshelf,6.0,7172.51,0.05,40883.29,22799.78,18083.51,Consumer,UPI,Completed
+ORD-00272,2025-02-28,CUST-0289,Chennai,Furniture,Bookshelf,7.0,5970.85,0.1,37616.38,29027.1,8589.28,Corporate,Card,Cancelled
+ORD-00237,2025-10-22,CUST-0164,Bangalore,Furniture,Chair,5.0,,0.05,20495.01,17299.37,3195.64,Small Business,UPI,Completed
+ORD-00488,2025-10-22,CUST-0129,Mumbai,Office Supplies,Printer Paper,5.0,386.71,0.2,1546.84,984.64,562.2,Small Business,Bank Transfer,Pending
+ORD-00118,2025-12-02,CUST-0051,,Clothing,Jacket,3.0,2725.72,0.15,6950.58,5479.9,1470.68,Small Business,Bank Transfer,Cancelled
+ORD-00829,2025-05-07,CUST-0054,Bangalore,Office Supplies,Printer Paper,7.0,457.26,0.2,2560.67,1666.55,894.13,Small Business,UPI,Cancelled
+ORD-00513,2025-08-16,CUST-0070,Hyderabad,Office Supplies,Printer Paper,5.0,509.98,0.2,2039.9,1441.17,598.73,Corporate,Card,Cancelled
+ORD-00560,2025-01-12,CUST-0170,Mumbai,Electronics,Keyboard,8.0,1487.49,0.15,10114.92,5995.52,4119.4,Corporate,Card,Returned
+ORD-00600,2025-05-24,CUST-0016,Lucknow,Electronics,Mouse,2.0,967.41,0.05,1838.07,1089.84,748.23,Corporate,UPI,Pending
+ORD-00127,2025-03-06,CUST-0141,Mumbai,Clothing,T-Shirt,3.0,773.74,0.0,2321.22,1519.43,801.78,Corporate,UPI,Pending
+ORD-00117,2025-02-19,CUST-0121,Delhi,Furniture,Chair,8.0,5115.36,0.0,40922.85,29158.79,11764.06,Corporate,Card,Pending
+ORD-00474,2025-12-23,CUST-0295,Hyderabad,Clothing,Jeans,6.0,1603.92,0.2,7698.81,6520.94,1177.87,Corporate,Cash,Pending
+ORD-00905,2025-04-01,CUST-0017,Mumbai,Electronics ,Jacket,2.0,2706.7,0.2,4330.72,2522.52,1808.2,Consumer,Bank Transfer,Completed
+ORD-00058,2025-08-03,CUST-0276,Delhi,Clothing,Shoes,5.0,2600.05,0.15,11050.22,9255.47,1794.76,Corporate,Card,Pending
+ORD-00683,2025-12-27,CUST-0208,Delhi,Clothing,,8.0,534.97,0.05,4065.75,2412.69,1653.06,Corporate,Card,Completed
+ORD-00923,2025-01-23,CUST-0213,Mumbai,Electronics,Mouse,3.0,1019.63,0.05,2905.95,1829.09,1076.86,Small Business,Cash,Completed
+ORD-00370,2025-10-29,CUST-0299,Chennai,Clothing,T-Shirt,3.0,687.22,0.2,1649.32,1112.29,537.03,Consumer,Cash,Completed
+ORD-00269,2025-06-05,CUST-0004,Pune,Clothing,Cap,2.0,552.45,0.05,1049.65,662.98,386.66,Corporate,Bank Transfer,Completed
+ORD-00047,2025-03-07,CUST-0099,Chennai,Clothing,Jacket, 5 ,3234.71,0.2,12938.83,"9,512.9",3425.92,Small Business,Bank Transfer,Returned
+ORD-00350,2025-08-12,CUST-0328,Jaipur,Electronics,Keyboard,3.0,1434.09,0.05,4087.17,2896.89,1190.28,Corporate,Bank Transfer,Returned
+ORD-00196,2025-02-19,CUST-0026,Jaipur,Clothing,T-Shirt,4.0,803.01,0.05,3051.42,2093.78,957.65,Corporate,UPI,Pending
+ORD-00077,2025-01-24,CUST-0028,Delhi,Furniture,Bookshelf,3.0,5807.55,0.1,15680.37,11156.89,4523.48,Small Business,UPI,Returned
+ORD-00845,2025-07-28,CUST-0348,Jaipur,Furniture,Desk,3.0,9286.88,0.1,25074.58,20119.53,4955.06,Consumer,Card,Completed
+ORD-00746,2025-10-02,CUST-0110,Chennai,Office Supplies,Printer Paper,8.0,414.57,0.0,3316.55,2232.61,1083.94,Consumer,UPI,Completed
+ORD-00264,2025-02-22,CUST-0068,Jaipur,Electronics,Laptop,6.0,53594.52,0.1,289410.42,185287.59,104122.83,Corporate,Cash,Completed
+ORD-00444,2025-07-28,CUST-0199,Mumbai,Office Supplies,File Folder,4.0,94.12,0.1,338.85,213.0,125.85,Small Business,Bank Transfer,Returned
+ORD-00789,2025-11-05,CUST-0196,Lucknow,Electronics,Keyboard,2.0,1371.35,0.2,2194.15,1671.62,522.54,Consumer,Cash,Pending
+ORD-00305,2025-01-01,CUST-0110,Pune,Clothing,Jacket,2.0,3003.08,0.0,6006.15,4671.77,1334.38,Corporate,Bank Transfer,Completed
+ORD-00342,2025-10-17,CUST-0258,Lucknow,Electronics,Headphones,8.0,2253.17,0.1,16222.79,12502.13,3720.66,Corporate,UPI,Pending
+ORD-00618,2025-10-12,CUST-0050,Hyderabad,Electronics,Monitor,8.0,12546.0,0.1,90331.2,60667.67,29663.53,Consumer,Bank Transfer,Completed
+ORD-00979,2025-03-04,CUST-0251,Delhi,Clothing,Jacket, 2 ,3128.31,0.0,6256.62,4310.88,1945.73,Consumer,Card,Completed
+ORD-00150,2025-11-01,CUST-0260,Mumbai,Office Supplies,Printer Paper,2.0,466.59,0.2,746.54,431.63,314.92,Small Business,,Pending
+ORD-00125,2025-09-15,CUST-0114,Hyderabad,Electronics,Headphones,2.0,2847.71,0.15,4841.12,4025.35,815.76,Corporate,Cash,Returned
+ORD-00808,2025-12-24,CUST-0224,Mumbai,Clothing,Shoes,6.0,2374.75,0.15,12111.23,9336.92,2774.31,Corporate,Cash,Completed
+ORD-00833,2025-12-27,CUST-0263,Bangalore,Furniture,Cabinet,8.0,6885.88,0.05,52332.72,43486.93,8845.79,Corporate,Cash,Returned
+ORD-00051,2025-04-10,CUST-0197,Mumbai,Furniture,Table,7.0,6445.72,0.2,36096.01,27433.52,8662.48,Corporate,Bank Transfer,Pending
+ORD-00354,2025-05-08,CUST-0035,Hyderabad,Electronics,Keyboard,5.0,1514.73,0.05,7194.97,5880.15,1314.82,Consumer,UPI,Completed
+ORD-00938,2025-08-30,CUST-0226,Lucknow,Clothing,T-Shirt,7.0,748.89,0.05,4980.11,3630.19,1349.92,Corporate,Bank Transfer,Cancelled
+ORD-00143,2025-05-29,CUST-0059,Chennai,Office Supplies,File Folder,7.0,92.11,0.15,548.08,307.94,240.13,Small Business,Bank Transfer,Completed
+ORD-00471,2025-03-09,CUST-0056,Mumbai,Office Supplies,Stapler,7.0,167.8,0.15,998.4,731.71,266.69,Consumer,Cash,Completed
+ORD-00400,2025-12-01,CUST-0011,Delhi,Office Supplies,File Folder,1.0,95.31,0.0,95.31,81.43,13.87,Small Business,Cash,Returned
+ORD-00634,2025-03-06,CUST-0259,Delhi,Office Supplies,File Folder,8.0,87.1,0.0,696.78,493.58,203.19,Corporate,Cash,Completed
+ORD-00321,2025-02-22,CUST-0294,Bangalore,Clothing,Cap,3.0,428.01,0.1,1155.63,758.42,397.21,Corporate,Cash,Completed
+ORD-00020,2025-04-28,CUST-0035,Pune,Furniture,Cabinet,2.0,6331.62,0.0,12663.24,8804.12,3859.12,Consumer,Cash,Completed
+ORD-00820,2025-08-23,CUST-0265,Bangalore,Clothing,Tshirt,7.0,2065.94,0.15,12292.35,10521.15,1771.2,Corporate,UPI,Completed
+ORD-00800,2025-01-07,CUST-0088,Delhi,Electronics,Headphones,7.0,2189.24,0.0,15324.71,12950.65,2374.06,Consumer,Bank Transfer,Pending
+ORD-00954,2025-11-05,CUST-0267,Pune,Electronics,Laptop,1.0,62558.21,0.15,53174.48,35702.43,17472.05,Small Business,UPI,Pending
+ORD-00408,2025-06-18,CUST-0184,Delhi,Electronics,Laptop,3.0, 61103.29 ,0.05,174144.38,125595.81,48548.57,Consumer,Bank Transfer,Cancelled
+ORD-00538,2025-09-27,CUST-0320,Delhi,Furniture,Chair,,5731.58,0.15,34102.92,23570.75,10532.17,Small Business,UPI,Completed
+ORD-00629,2025-02-27,CUST-0298,Delhi,Office Supplies,Notebook,8.0,109.22,0.1,786.38,560.08,226.3,Small Business,Bank Transfer,Returned
+ORD-00039,2025-03-21,CUST-0122,Lucknow,Furniture,Chair,7.0,5406.91,0.2,30278.67,17393.12,12885.55,Small Business,Card,Completed
+ORD-00176,2025-05-31,CUST-0165,Chennai,Clothing,T-Shirt,3.0,700.66,0.2,1681.58,1400.15,281.43,Small Business,Cash,Completed
+ORD-00246,2025-01-24,CUST-0289,Pune,Clothing,Jacket,6.0,2960.09,0.15,15096.46,11392.45,3704.01,Corporate,Card,Returned
+ORD-00885,2025-07-14,CUST-0336,Jaipur,Electronics,,1.0,866.49,0.05,823.17,559.9,263.27,Consumer,Cash,Completed
+ORD-00676,2025-03-11,CUST-0057,Bangalore,Furniture,Bookshelf,1.0,7215.71,0.1,6494.14,4811.92,1682.22,Consumer,Bank Transfer,Pending
+ORD-00895,2025-04-30,CUST-0136,Chennai,Office Supplies,Printer Paper,3.0,391.5,0.15,998.32,719.86,278.46,Consumer,Cash,Completed
+ORD-00869,2025-11-04,CUST-0318,Lucknow,office supplies,Notebook,4.0,118.19,0.0,472.77,290.39,182.38,Small Business,Bank Transfer,Completed
+ORD-00155,2025-11-01,CUST-0044,Jaipur,Furniture,Bookshelf,7.0,7075.61,0.05,47052.83,30084.38,16968.44,Small Business,UPI,Cancelled
+ORD-00288,2025-11-02,CUST-0071,,Furniture,Bookshelf,7.0,7206.61,0.15,,37019.51,5859.81,Small Business,Bank Transfer,Pending
+ORD-00705,2025-04-17,CUST-0156,Chennai,Furniture,Table,2.0,7692.05,0.75,14614.89,12225.79,2389.1,Consumer,Bank Transfer,Cancelled
+ORD-00570,2025-03-11,CUST-0221,Pune,Furniture,Cabinet,5.0,5965.06,0.2,23860.22,17787.67,6072.56,Consumer,Card,Returned
+ORD-00753,2025-03-18,CUST-0099,Pune,Furniture,Bookshelf,4.0,6266.38,0.0,25065.53,17084.95,7980.57,Corporate,Cash,Completed
+ORD-00018,2025-10-04,CUST-0103,Bangalore,Clothing,Cap,7.0,569.84,0.05,3789.47,3095.13,694.34,Corporate,UPI,Pending
+ORD-00128,2025-04-21,CUST-0221,Chennai,Office Supplies,Stapler,2.0,162.15,0.2,259.44,190.37,69.08,Consumer,Bank Transfer,Completed
+ORD-00323,2025-08-02,CUST-0164,Chennai,Electronics,Monitor,6.0,10631.14,0.05,60597.52,51136.67,9460.85,Consumer,UPI,Completed
+ORD-00256,2025-09-13,CUST-0223,,Clothing,T-Shirt,3.0,723.82,0.0,2171.45,1494.0,677.45,Small Business,UPI,Cancelled
+ORD-00666,2025-08-19,CUST-0211,Bangalore,Furniture,Desk,5.0,9149.48,0.2,36597.93,28814.89,7783.04,Small Business,Card,Completed
+ORD-00977,2025-01-18,CUST-0061,Chennai,Office Supplies,File Folder,7.0,92.65,0.05,616.14,488.45,127.68,Consumer,Card,Pending
+ORD-00191,2025-02-11,CUST-0024,Lucknow,Furniture,Desk,1.0,7969.05,0.0,7969.05,6215.24,1753.8,Small Business,UPI,Returned
+ORD-00116,2025-12-25,CUST-0155,Pune,Office Supplies,File Folder,2.0,97.96,0.15,166.53,119.22,47.32,Small Business,Bank Transfer,Completed
+ORD-00679,2025-10-24,CUST-0114,Pune,Electronics,Headphones,6.0,2800.53,0.15,14282.68,9843.17,4439.52,Consumer,Card,Cancelled
+ORD-00607,2025-12-10,CUST-0061,Jaipur,Furniture,Desk,6.0,8091.78,0.15, 41268.1 ,33521.55,7746.55,Corporate,UPI,Completed
+ORD-00181,2025-07-07,CUST-0204,Mumbai,Office Supplies,Stapler,-1,173.96,0.2,417.51,318.26,99.25,Small Business,UPI,Returned
+ORD-00302,2025-02-20,CUST-0321,Hyderabad,Furniture,Cabinet,1.0,5418.62,0.0,5418.62,3138.85,2279.77,Corporate,Bank Transfer,Completed
+ORD-00846,2025-07-19,CUST-0051,Delhi,Office Supplies,Pen,1.0,36.1,0.1,32.49,23.26,9.23,Small Business,UPI,Completed
+ORD-00722,2025-05-23,CUST-0297,Lucknow,Furniture,Desk,2.0,9466.03,0.05,17985.45,12525.74,5459.71,Consumer,UPI,Completed
+ORD-00733,2025-11-18,CUST-0069,Jaipur,Electronics,Laptop,8.0,63240.33,0.05,480626.48,271991.32,208635.16,Corporate,Cash,Completed
+ORD-00694,2025-01-25,CUST-0076,Pune,Furniture,Bookshelf,6.0,7033.27,0.1,37979.67,22529.1,15450.57,Corporate,UPI,Completed
+ORD-00670,2025-04-18,CUST-0223,Delhi,Furniture,Desk,6.0,7844.94,0.75,42362.65,23727.97,18634.68,Consumer,UPI,Completed
+ORD-00518,2025-02-10,CUST-0217,Chennai,Furniture,Desk,4.0,7857.77,0.1,28287.99,22058.27,6229.71,Corporate,Card,Cancelled
+ORD-00997,2025-09-15,CUST-0147,Bangalore,Clothing,Shoes,6.0,2582.67,0.15,13171.61,7832.72,5338.89,Corporate,UPI,Pending
+ORD-00046,2025-06-03,CUST-0260,Lucknow,Clothing,T-Shirt,6.0,620.11,0.0,3720.69,2922.12,798.57,Small Business,UPI,Returned
+ORD-00920,2025-11-25,CUST-0340,Pune,Furniture,Chair,1.0,5642.13,0.2,4513.7,2817.1,1696.6,Corporate,Cash,Pending
+ORD-00158,2025-03-09,CUST-0306,Delhi,Office Supplies,Notebook,6.0,132.1,0.2,634.06,494.36,139.7,Small Business,Bank Transfer,Completed
+ORD-00754,2025-11-28,CUST-0019,Hyderabad,Office Supplies,Stapler,7.0,184.33,0.15,1096.76,796.34,300.41,Small Business,Card,Completed
+ORD-00172,2025-01-19,CUST-0151,Bangalore,Clothing,Shoes,2.0,2254.9,0.15,3833.33,2657.16,1176.18,Consumer,Card,Completed
+ORD-00017,2025-09-06,CUST-0036,Pune,Furniture,Chair,2.0,4347.58,0.0,8695.15,7505.07,1190.09,Small Business,Card,Completed
+ORD-00512,2025-09-27,CUST-0088,Hyderabad,Furniture,Bookshelf,3.0,7327.57,0.05,20883.58,18178.1,2705.48,Small Business,Cash,Completed
+ORD-00049,2025-08-31,CUST-0087,Hyderabad,Office Supplies,Stapler,4.0,181.23,0.2,579.93,400.78,,Corporate,Cash,Completed
+ORD-00984,2025-10-06,CUST-0088,Mumbai,Office Supplies,Notebook,5.0,108.64,0.1,488.89,327.33,161.56,Consumer,Bank Transfer,Returned
+ORD-00851,2025-01-01,CUST-0238,Chennai,Furniture,Desk,8.0,10257.72,0.0,82061.76,56846.17,25215.58,Small Business,UPI,Returned
+ORD-00516,2025-09-02,CUST-0154,Jaipur,Furniture,Bookshelf,1.0,5597.16,0.15,4757.59,3552.82,1204.77,Corporate,Cash,Pending
+ORD-00695,2025-03-31,CUST-0342,Bangalore,Clothing,Jeans,5.0,2053.7,0.05,9755.09,6826.13,2928.96,Small Business,Card,Completed
+ORD-00481,2025-03-16,CUST-0242,Chennai,Electronics,Mouse,1.0,787.36,0.0,787.36,589.76,197.59,Small Business,Bank Transfer,Completed
+ORD-00284,2025-02-22,CUST-0275,Jaipur,Furniture,Desk,2.0,8709.06,0.2,13934.49,9675.65,4258.85,Small Business,Card,Completed
+ORD-00856,2025-09-01,CUST-0003,Bangalore,Office Supplies,Notebook,1.0,107.47,0.2,85.98,49.03,36.95,Small Business,Cash,Returned
+ORD-00663,2025-12-23,CUST-0190,Jaipur,Electronics,Laptop,7.0,62851.78,0.05,417964.32,276347.81,141616.5,Consumer,Card,Pending
+ORD-00226,2025-12-15,CUST-0306,Hyderabad,Office Supplies,Stapler,4.0,194.97,0.05,-740.87,544.0,196.87,Small Business,Cash,Cancelled
+ORD-00027,2025-10-24,CUST-0278,Pune,Clothing,Jeans,4.0,2037.33,0.0,8149.32,6888.56,1260.76,Corporate,Cash,Returned
+ORD-00897,2025-06-04,CUST-0350,Pune,Furniture,Bookshelf,6.0,6523.83,0.1,35228.7,27283.75,7944.95,Small Business,UPI,Completed
+ORD-00438,2025-07-04,CUST-0151,Pune,Office Supplies,Pen,6.0,,0.1,185.25,111.43,73.81,Small Business,Card,Cancelled
+ORD-00962,2025-08-11,CUST-0015,Pune,Furniture,Desk,2.0,9322.89,0.0,18645.78,12442.57,6203.22,Consumer,Card,Completed
+ORD-00365,2025-04-27,CUST-0284,Lucknow,Electronics,Laptop,7.0,50076.85,0.2,280430.36,169381.75,111048.61,Small Business,Cash,Pending
+ORD-00230,2025-10-24,CUST-0038,Chennai,Office Supplies,Notebook,1.0,104.03,0.05,98.83, 58.23 ,40.6,Corporate,Cash,Pending
+ORD-00038,2025-01-21,CUST-0184,Bangalore,Furniture,Table,5.0,7965.43,0.1,35844.43,28337.62,7506.81,Consumer,Card,Returned
+ORD-00978,2025-08-26,CUST-0333,Bangalore,Clothing,Jacket,7.0,3448.51,0.0,24139.59,20710.02,3429.57,Small Business,Bank Transfer,Completed
+ORD-00375,2025-07-11,CUST-0029,Chennai,Clothing,Jeans,8.0,2019.49,0.2,12924.77,9771.11,3153.66,Small Business,Card,Completed
+ORD-00470,2025-04-04,CUST-0320,Chennai,Furniture,Desk,3.0,7967.93,0.2,19123.03,14155.83,4967.2,Small Business,UPI,Completed
+ORD-00980,2025-09-05,CUST-0331,Mumbai,Clothing,Jacket,3.0,3122.56,0.15,7962.53,6443.79,1518.73,Small Business,Bank Transfer,Completed
+ORD-00137,2025-03-21,CUST-0081,Banglore,Office Supplies,mouse,2.0,499.55,0.0,999.11,850.61,148.5,Small Business,Cash,Returned
+ORD-00713,2025-04-10,CUST-0322,Jaipur,Office Supplies,Notebook,2.0,137.52,0.2,220.03,191.09,28.94,Corporate,Card,Completed
+ORD-00735,2025-04-14,CUST-0151,Mumbai,Office Supplies,File Folder,8.0,100.01,0.15,680.07,549.62,130.45,Consumer,Bank Transfer,Pending
+ORD-00195,2025-10-15,CUST-0055,PUNE ,Office Supplies,Printer Paper,6.0,483.83,0.2,2322.4,1895.67,426.73,Consumer,UPI,Completed
+ORD-00865,2025-05-23,CUST-0216,Delhi,Office Supplies,File Folder,4.0,98.48,0.0,393.91,296.62,97.29,Small Business,Bank Transfer,Completed
+ORD-00875,2025-11-14,CUST-0228,Jaipur,Furniture,Cabinet,7.0,6468.52,0.15,38487.7,22909.66,15578.04,Corporate,Card,Completed
+ORD-00504,2025-01-11,CUST-0211,Lucknow,Office Supplies,Printer Paper,5.0,475.96,0.1,2141.81,1778.2,363.6,Corporate,Cash,Completed
+ORD-00982,2025-11-03,CUST-0093,Mumbai,Clothing,T-Shirt,2.0,771.36,0.05,1465.58,991.71,473.87,Consumer,Cash,Cancelled
+ORD-00951,2025-11-17,CUST-0320,Pune,Electronics,Mouse,7.0,914.64,0.15,5442.11,3002.56,2439.56,Corporate,Cash,Returned
+ORD-00580,2025-03-14,CUST-0238,Jaipur,Furniture,Table, 1 ,8336.65,0.2,6669.32,3732.49,2936.82,Small Business,Bank Transfer,Completed
+ORD-00981,2025-12-25,CUST-0011,Lucknow,Furniture,Chair,3.0,4427.5,0.15,11290.14,7736.78,3553.36,Consumer,Bank Transfer,Cancelled
+ORD-00163,2025-08-19,CUST-0179,Bangalore,Office Supplies,Stapler,2.0,204.56,0.05,388.67,308.41,80.26,Corporate,Cash,Pending
+ORD-00715,2025-09-06,CUST-0211,Delhi,Office Supplies,Pen,5.0,41.67,0.1,187.51,156.84,30.67,Consumer,UPI,Completed
+ORD-00153,2025-01-27,CUST-0324,Chennai,Office Supplies,Printer Paper,6.0,480.52,0.2,2306.51,2011.35,295.16,,UPI,Completed
+ORD-00690,2025-05-22,CUST-0058,Jaipur,Clothing,Jeans,2.0,1723.99,0.05,3275.57,2442.51,833.06,Consumer,Card,Pending
+ORD-00709,2025-04-02,CUST-0252,Mumbai,Office Supplies,Stapler,5.0,155.12,0.15,659.28,389.17,270.11,Small Business,Card,Completed
+ORD-00765,2025-02-03,CUST-0181,Bangalore,Clothing,T-Shirt,5.0,763.64,0.2,3054.54,2223.47,831.07,Small Business,Bank Transfer,Cancelled
+ORD-00112,2025-04-13,CUST-0068,Jaipur,office supplies,Chair,7.0,4390.51,0.05,29196.91,19601.23,9595.67,Corporate,UPI,Cancelled
+ORD-00227,2025-10-08,CUST-0259,Lucknow,Clothing,Cap,2.0,488.63,0.0,977.27,829.79,147.47,Consumer,Card,Cancelled
+ORD-00697,2025-10-04,CUST-0084,Lucknow,Electronics,Keyboard,6.0,1441.48,0.15,7351.57,5304.34,2047.22,Consumer,UPI,Completed
+ORD-00104,2025-08-09,CUST-0075,Delhi,Electronics,Keyboard,6.0,1408.71,0.1,7607.01,5849.46,1757.56,Corporate,Card,Cancelled
+ORD-00422,2025-04-08,CUST-0174,Mumbai,Furniture,Desk,4.0,8130.7,0.15,27644.37,23971.9,3672.47,Corporate,Cash,Pending
+ORD-00420,2025-06-24,CUST-0182,Mumbai,Office Supplies,Stapler,4.0,184.35,0.0,737.41,559.43,177.98,Consumer,UPI,Cancelled
+ORD-00760,2025-12-16,CUST-0127,Lucknow,Office Supplies,Notebook,7.0,110.77,0.15,659.05,564.1,94.96,Small Business,UPI,Completed
+ORD-00587,2025-02-10,CUST-0308,Hyderabad,Furniture,Cabinet,7.0,6237.26,0.15,37111.72,23593.23,13518.49,Corporate,Cash,Completed
+ORD-00790,2025-04-17,CUST-0084,Pune,Office Supplies,Pen,2.0,41.29,0.0,82.57,60.31,22.26,Corporate,Bank Transfer,Pending
+ORD-00673,2025-05-02,CUST-0212,Mumbai,office supplies,Pen,4.0,42.91,0.0,171.65,118.51,53.14,Corporate,Card,Pending
+ORD-00120,2025-04-08,CUST-0063,Lucknow,Electronics,Keyboard,7.0,1669.83,0.1,10519.91,6400.8,4119.11,Consumer,Bank Transfer,Completed
+ORD-00054,,CUST-0127,Hyderabad,Clothing,Tshirt,8.0,486.56,0.15,3308.59,2644.66,663.93,Consumer,UPI,Cancelled
+ORD-00152,2025-08-13,CUST-0269,Bangalore,Office Supplies,Notebook,4.0,121.46,0.15,412.97,₹314.01,98.97,Consumer,Card,Completed
+ORD-00404,2025-10-08,CUST-0255,Chennai,Furniture,Bookshelf,3.0,7347.02,0.0,22041.05,18854.74,3186.31,Corporate,Card,Returned
+ORD-00983,2025-04-16,CUST-0335,Mumbai,Clothing,Tshirt,3.0,3064.69,0.2,7355.24,5472.04,1883.21,Consumer,Card,Completed
+ORD-00208,2025-03-19,CUST-0212,Delhi,Electronics,Mouse,6.0,935.6,0.15,4771.54,3330.47,1441.07,Corporate,Card,Pending
+ORD-00659,2025-11-13,CUST-0024,Hyderabad,Electronics,Mouse,1.0,907.13,0.15,771.06,610.24,160.82,Small Business,Card,Returned
+ORD-00854,2025-04-18,CUST-0313,Bangalore,Clothing,T-Shirt,5.0,729.57,0.15,3100.69,1926.43,1174.25,Small Business,UPI,Returned
+ORD-00922,2025-01-08,CUST-0173,Mumbai,Furniture,Desk,7.0,8836.39,0.0,61854.75,46531.48,15323.27,Consumer,Card,Returned
+ORD-00009,2025-01-29,CUST-0118,Jaipur,Clothing,Shoes,4.0,2353.18,0.1,8471.45,6126.3,2345.16,Small Business,Cash,Completed
+ORD-00818,2025-05-06,CUST-0243,Pune,Furniture,Chair,7.0,5640.77,0.0,39485.37,24774.38,14710.99,Corporate,UPI,Completed
+ORD-00037,2025-02-08,CUST-0077,Chennai,Clothing,Cap,1.0,425.83,0.0,425.83,348.8,77.03,Small Business,Cash,Completed
+ORD-00453,2025-08-19,CUST-0169,Mumbai,Office Supplies,File Folder,6.0,87.88,0.15,-448.18,378.52,69.66,Consumer,UPI,Returned
+ORD-00652,2025-02-05,CUST-0277,Hyderabad,Electronics,Monitor,7.0,10387.1,0.15,61803.22,45031.55,16771.68,Corporate,Card,Completed
+ORD-00254,2025-07-27,CUST-0236,,Office Supplies,,2.0,505.48,0.1,909.86,747.39,162.47,Corporate,Card,Returned
+ORD-00304,2025-12-07,CUST-0333,Lucknow,Office Supplies,Notebook,2.0,109.43,0.1,196.97,132.01,64.96,Corporate,Card,Completed
+ORD-00756,2025-06-02,CUST-0033,Bengaluru,Clothing,laptop,6.0,765.73,0.2,3675.49,2892.54,782.95,Consumer,Bank Transfer,Completed
+ORD-00572,2025-04-07,CUST-0055,Jaipur,Clothing,Shoes,5.0,2633.51,0.05,12509.18,9215.41,3293.77,Corporate,Card,Completed
+ORD-00624,2025-04-19,CUST-0340,Chennai,Office Supplies,Stapler,7.0,160.09,0.2,896.49,502.69,393.8,Corporate,Card,Pending
+ORD-00719,2025-02-10,CUST-0218,Jaipur,Furniture,Desk,4.0,8481.41,0.05,32229.36,25220.91,7008.45,Consumer,Cash,Completed
+ORD-00729,2025-07-22,CUST-0225,Delhi,Office Supplies,Pen,8.0,42.27,0.0,338.19,261.51,,Small Business,Cash,Completed
+ORD-00263,2025-07-19,CUST-0163,Jaipur,Electronics,Laptop,-3,60582.42,0.05,402873.12,283892.09,118981.02,Consumer,UPI,Completed
+ORD-00611,2025-06-20,CUST-0102,Hyderabad,Clothing,Jeans,6.0,2043.47,0.1,11034.72,6619.17,4415.55,Small Business,Cash,Pending
+ORD-00298,2025-12-13,CUST-0202,Pune,Furniture,Desk,6.0,10071.33,0.05,57406.57,40552.43,16854.15,Consumer,Bank Transfer,Completed
+ORD-00415,2025-09-09,CUST-0165,Hyderabad,Furniture,Cabinet,3.0,6427.5,0.0,19282.51,13482.94,5799.56,Corporate,Card,Completed
+ORD-00151,2025-03-19,CUST-0032,Pune,Electronics,Headphones,8.0,2163.76,0.2,13848.07,10044.66,3803.41,Corporate,Bank Transfer,Completed
+ORD-00803,2025-03-17,CUST-0243,Pune,Furniture,Table,5.0,6531.2,0.15,27757.62,20021.28,7736.33,Consumer,Bank Transfer,Completed
+ORD-00641,2025-05-19,CUST-0137,Lucknow,Electronics,Laptop,5.0,56949.57,0.1,256273.06,200357.73,55915.34,Corporate,Cash,Completed
+ORD-00900,2025-08-08,CUST-0214,Lucknow,Clothing,Shoes,6.0,2178.44,0.05,12417.12,6879.03,5538.09,Consumer,Card,Pending
+ORD-00551,2025-12-01,CUST-0309,Chennai,Office Supplies,Printer Paper,2.0,390.31,0.05,741.59,645.03,96.55,Corporate,Cash,Returned
+ORD-00801,2025-06-04,CUST-0045,Hyderabad,Clothing,Cap,6.0,453.78,0.15,2314.28,1519.82,794.46,Corporate,Card,Completed
+ORD-00489,2025-01-15,CUST-0247,Lucknow,Clothing,Jeans,8.0,1851.34,0.2,11848.59,6717.8,5130.79,Corporate,Cash,Completed
+ORD-00711,2025-03-25,CUST-0298,Lucknow,Clothing,T-Shirt,1.0,661.39,0.1,595.25,427.03,168.23,Small Business,Cash,Completed
+ORD-00148,2025-08-14,CUST-0035,Lucknow,Clothing,Cap,6.0,444.06,0.05,2531.14,1828.34,702.79,Small Business,Bank Transfer,Pending
+ORD-00147,2025-11-18,CUST-0253,Bangalore,Furniture,Desk,2.0,9871.02,0.05,18754.94,12544.48,6210.46,Small Business,Bank Transfer,Cancelled
+ORD-00744,2025-01-12,cust-0163,Delhi,Clothing,Jacket,8.0,2906.56,0.2,18601.95,14500.3,4101.65,Small Business,Bank Transfer,Cancelled
+ORD-00942,2025-09-08,CUST-0158,Chennai,Clothing,Shoes,6.0,2602.22,0.15,13271.31,10632.58,2638.73,Small Business,Cash,Pending
+ORD-00824,2025-11-29,CUST-0208,Pune,Clothing,Shoes,8.0,2220.79,0.1,15989.65,13153.13,2836.53,Small Business,Card,Completed
+ORD-00660,2025-02-19,CUST-0234,Bangalore,Furniture,Chair,1.0,,0.1,3935.2,2242.73,1692.47,Small Business,Card,Cancelled
+ORD-00349,2025-07-11,CUST-0340,Bangalore,Electronics,Mouse,6.0,842.93,0.0,5057.58,3751.76,1305.82,Consumer,Bank Transfer,Cancelled
+ORD-00464,2025-06-26,CUST-0250,Pune,Office Supplies,Stapler,7.0,167.51,0.1,1055.3,769.04,286.26,Small Business,Bank Transfer,Cancelled
+ORD-00326,2025-09-10,CUST-0101,Pune,Office Supplies,File Folder,6.0,78.85,0.2,378.46,275.24,103.23,Corporate,Card,Completed
+ORD-00187,2025-06-12,CUST-0329,Chennai,Clothing,Cap,2.0,439.17,0.05,834.42,647.0,,Corporate,Cash,Pending
+ORD-00124,2025-08-04,CUST-0270,Bangalore,Office Supplies,Notebook,1.0,117.41,0.05,111.54,96.93,14.61,,Cash,Returned
+ORD-00864,2025-12-15,CUST-0266,Chennai,Electronics,Printer paper,5.0,1604.52,0.0,8022.61,7051.15,971.46,Corporate,Bank Transfer,Pending
+ORD-00609,2025-11-10,CUST-0174,Pune,Furniture,Bookshelf,2.0,5685.64,0.1,10234.16,7927.02,2307.14,Consumer,Bank Transfer,Completed
+ORD-00144,2025-08-12,CUST-0055,Hyderabad,Office Supplies,Pen,6.0,39.59,0.0,237.52,173.17,64.35,Small Business,Card,Pending
+ORD-00971,2025-12-04,CUST-0082,Bangalore,Furniture,Chair,7.0,4337.83,0.1,27328.31,18044.84,9283.46,Corporate,Cash,Cancelled
+ORD-00198,2025-08-23,CUST-0124,Delhi,Office Supplies,Stapler,7.0,171.4,0.2,959.86,822.74,137.12,Consumer,Card,Cancelled
+ORD-00610,2025-07-16,CUST-0028,Hyderabad,Furniture,Chair,1.0,5231.77,0.0,5231.77,3349.25,1882.52,Small Business,Cash,Pending
+ORD-00280,2025-06-13,CUST-0035,Hyderabad,Clothing,Jacket,8.0,3229.62,0.15,21961.44,16574.35,5387.09,Consumer,UPI,Completed
+ORD-00294,2025-06-28,CUST-0045,Jaipur,Electronics,Mouse,8.0,785.48,0.1,5655.48,3351.04,2304.44,Consumer,Bank Transfer,Completed
+ORD-00401,2025-05-10,CUST-0243,Hyderabad,Electronics,Headphones,2.0,2655.43,0.2,4248.69,2550.65,1698.04,Corporate,Card,Completed
+ORD-00123,2025-03-09,CUST-0008,Jaipur,Furniture,Cabinet,2.0,5127.82,0.0,10255.64,8782.37,1473.27,Consumer,UPI,Completed
+ORD-00184,2025-12-30,CUST-0034,Hyderabad,Clothing,Jeans,6.0,2049.04,0.1,11064.83,9391.45,1673.38,Consumer,UPI,Completed
+ORD-00203,2025-01-20,CUST-0071,Chennai,electronics,Cabinet,1.0,5676.09,0.0,5676.09,4799.26,876.83,Small Business,UPI,Pending
+ORD-00439,2025-05-04,CUST-0329,Delhi,Electronics ,Cap,6.0,532.4,0.15,2715.22,2083.78,631.44,Consumer,Card,Completed
+ORD-00247,2025-03-20,CUST-0101,Jaipur,Furniture,Chair,7.0,4666.07,0.1,29396.25,17992.86,11403.39,Small Business,UPI,Completed
+ORD-00416,2025-05-01,CUST-0041,Pune,Office Supplies,Notebook,7.0,110.09,0.15,655.01,458.05,196.96,Small Business,Bank Transfer,Pending
+ORD-00786,2025-12-15,CUST-0349,,Furniture,Table,1.0,7694.87,0.1,6925.38,4192.94,2732.45,Corporate,Cash,Pending
+ORD-00775,2025-03-10,CUST-0166,Hyderabad,Office Supplies,File Folder,1.0,77.67,0.15,66.02,50.11,15.92,Consumer,Bank Transfer,Returned
+ORD-00917,2025-12-03,CUST-0125,Hyderabad,Clothing,Shoes,2.0,2561.82,0.2,4098.91,3266.27,,Consumer,Bank Transfer,Completed
+ORD-00778,2025-04-02,CUST-0134,Bangalore,Clothing,Jacket,1.0,2755.27,0.2,2204.22,1366.56,837.66,Small Business,Card,Cancelled
+ORD-00940,2025-05-26,CUST-0193,Chennai,Furniture,Bookshelf,5.0,6105.22,0.15,25947.18,19108.99,6838.19,Corporate,Bank Transfer,Completed
+ORD-00130,2025-02-16,CUST-0044,Bangalore,Office Supplies,Laptop ,8.0,459.46,0.0,3675.67,2139.49,1536.18,Small Business,Cash,Pending
+ORD-00638,2025-01-27,CUST-0086,Lucknow,Furniture,Desk,5.0,8947.37,0.0,44736.84,26154.36,18582.48,Consumer,Bank Transfer,Pending
+ORD-00403,2025-09-12,CUST-0102,Mumbai,Electronics,Monitor,2.0,11726.87,0.0,23453.74,18599.44,4854.3,Corporate,Card,Completed
+ORD-00794,2025-08-28,CUST-0224,Hyderabad,Furniture,Desk,2.0,9526.89,0.1,17148.4,11719.65,5428.75,Small Business,Cash,Pending
+ORD-00862,2025-03-07,CUST-0133,Bangalore,Furniture,Cabinet,3.0,5645.9,0.0,16937.69,9880.52,7057.17,Consumer,Card,Cancelled
+ORD-00736,2025-08-09,CUST-0061,Lucknow,Office Supplies,File Folder,1.0,91.81,0.0,91.81,72.87,18.94,Small Business,Bank Transfer,Pending
+ORD-00924,2025-07-22,CUST-0220,Pune,Office Supplies,File Folder,4.0,79.78,0.2,255.3,157.05,98.25,Small Business,Cash,Completed
+ORD-00220,2025-08-23,CUST-0332,Pune,Clothing,Jacket,6.0,3185.62,0.05,18158.02,10474.37,7683.66,Consumer,UPI,Returned
+ORD-00642,2025-06-22,CUST-0347,Pune,Clothing,Shoes,4.0,2544.74,0.2,8143.16,4504.99,3638.16,Small Business,Card,Completed
+ORD-00926,2025-11-29,CUST-0320,Hyderabad,Clothing,Jeans,2.0,1684.39,0.1,3031.9,2483.92,547.98,Consumer,UPI,Completed
+ORD-00762,2025-10-01,CUST-0122,Chennai,Furniture,Bookshelf,6.0,6210.66,0.0,37263.99,21742.38,15521.61,Corporate,Bank Transfer,Pending
+ORD-00817,2025-03-20,CUST-0332,Hyderabad,Furniture,Bookshelf,8.0,6821.58,0.0,54572.62,44340.17,10232.45,Small Business,UPI,Completed
+ORD-00930,2025-05-02,CUST-0220,Delhi,Electronics,Mouse,2.0,992.34,0.1,1786.21,1411.82,374.39,Small Business,Card,Cancelled
+ORD-00625,2025-05-28,CUST-0344,Chennai,Furniture,Desk,7.0,10136.29,0.05,67406.32,50790.3,16616.02,Corporate,Card,Completed
+ORD-00849,2025-10-28,CUST-0346,Pune,Electronics,Headphones,5.0,2144.36,0.2,8577.44,5100.19,3477.25,Consumer,Cash,Completed
+ORD-00990,2025-03-20,CUST-0162,Lucknow,Office Supplies,Pen,3.0,44.47,0.15,113.41,93.88,19.52,Small Business,Bank Transfer,Pending
+ORD-00387,2025-06-03,CUST-0088,Hyderabad,Furniture,Cabinet,6.0,5329.48,0.2,25581.5,17423.68,8157.82,Small Business,Card,Completed
+ORD-00985,2025-08-16,CUST-0072,Jaipur,Electronics,Mouse,5.0,855.32,0.2,3421.27,1911.28,1510.0,Consumer,Bank Transfer,Returned
+ORD-00510,2025-01-28,CUST-0014,Mumbai,Clothing,T-Shirt,8.0,787.25,0.2,5038.42,2827.57,2210.85,Consumer,Bank Transfer,Cancelled
+ORD-00268,2025-02-09,CUST-0185,Jaipur,Furniture,Table,5.0,8105.22,0.15,34447.19,29685.65,4761.54,Corporate,UPI,Completed
+ORD-00830,2025-07-30,CUST-0042,Hyderabad,Furniture,,3.0,6299.11,0.15,16062.74,11205.0,4857.74,Consumer,Cash,Completed
+ORD-00442,2025-02-23,CUST-0106,Pune,office supplies,Laptop,4.0,47075.22,0.15,160055.76,93529.52,66526.24,Small Business,Bank Transfer,Returned
+ORD-00497,2025-12-19,CUST-0005,Mumbai,Furniture,Table,8.0,6987.33,0.1,50308.75,37468.76,12839.99,Small Business,Cash,Returned
+ORD-00113,2025-02-28,CUST-0240,Jaipur,Office Supplies,laptop,5.0,37.18,0.1,,105.5,61.82,Corporate,Cash,Completed
+ORD-00692,2025-04-29,CUST-0267,Jaipur,Clothing,T-Shirt,2.0,798.58,0.0,1597.15,1014.49,582.67,Consumer,UPI,Pending
+ORD-00233,2025-03-07,CUST-0115,Bangalore,Office Supplies,Notebook,7.0,136.64,0.2,765.17,515.5,249.67,Small Business,Cash,Completed
+ORD-00880,2025-01-22,CUST-0254,Lucknow,Office Supplies,Stapler,2.0,158.93,0.15,270.17,197.45,72.72,Consumer,Card,Completed
+ORD-00608,2025-10-05,CUST-0180,Mumbai,Furniture,Bookshelf,2.0,6877.68,0.05,13067.59,8139.2,4928.39,Consumer,UPI,Completed
+ORD-00672,2025-10-24,CUST-0167,Pune,Electronics,Laptop,8.0,61076.5,0.2,390889.58,308789.39,82100.18,Small Business,Bank Transfer,Completed
+ORD-00374,2025-05-18,CUST-0214,Bangalore,Electronics,Mouse,8.0,868.65,0.1,6254.28,4561.7,1692.58,Corporate,Cash,Completed
+ORD-00994,2025-02-20,CUST-0025,Jaipur,Office Supplies,File Folder,5.0,96.15,0.2,384.62,274.55,110.07,Small Business,Card,Completed
+ORD-00853,2025-10-16,CUST-0036,Jaipur,Furniture,Cabinet,3.0,5891.12,0.2,14138.69,8269.29,5869.4,Consumer,UPI,Completed
+ORD-00234,2025-05-07,CUST-0236,Chennai,Office Supplies,Stapler,7.0,168.43,0.05,1120.05,937.08,182.97,Small Business,UPI,Completed
+ORD-00912,2025-11-13,CUST-0222,Bangalore,Office Supplies,Stapler,4.0,186.21,0.05,707.6,570.06,137.54,Corporate,Bank Transfer,Pending
+ORD-00677,,CUST-0327,Lucknow,Clothing,Jeans,5.0,1766.85,0.2,7067.41,5578.55,1488.86,Consumer,Card,Cancelled
+ORD-00318,2025-01-07,CUST-0071,Delhi,Clothing,Cap,3.0,441.08,0.0,1323.23,923.14,-400.08,Corporate,Cash,Completed
+ORD-00649,2025-11-11,CUST-0330,Bangalore,Clothing,T-Shirt,7.0,,0.05,4190.64,2449.46,1741.18,Small Business,Cash,Pending
+ORD-00411,2025-11-09,CUST-0195,Hyderabad,Clothing,Cap,8.0,545.43,0.05,4145.25,2286.23,1859.03,Small Business,,Cancelled
+ORD-00909,2025-12-17,CUST-0235,Jaipur,Clothing,Jeans,4.0,1689.54,0.2,5406.53,4346.0,1060.52,Small Business,UPI,Completed
+ORD-00710,2025-09-04,CUST-0290,Hyderabad,Electronics,Keyboard,6.0,1577.06,0.2,7569.87,6496.3,1073.57,Consumer,Bank Transfer,Completed
+ORD-00359,2025-01-28,CUST-0052,Bangalore,Electronics ,Headphones,7.0,2747.96,0.05,18273.96,15870.19,2403.78,Small Business,UPI,Completed
+ORD-00259,2025-07-19,CUST-0347,Jaipur,Clothing,T-Shirt,4.0,674.06,0.2,2156.98,1763.3,393.69,Consumer,UPI,Pending
+ORD-00745,2025-06-22,CUST-0255,Mumbai,Clothing,Jacket,2.0,2899.7,0.05,5509.43,3845.96,1663.47,Corporate,UPI,Completed
+ORD-00628,2025-09-13,CUST-0122,Bangalore,Office Supplies,Pen,1.0,42.23,0.2,33.78,23.38,10.4,Corporate,UPI,Pending
+ORD-00633,2025-03-28,CUST-0294,,Office Supplies,File Folder,8.0,76.81,0.2,491.61,282.14,209.47,Consumer,Cash,Returned
+ORD-00283,2025-10-31,CUST-0220,Delhi,Clothing,Shoes,4.0,2387.94,0.15,8119.0,6046.0,2073.0,Small Business,Bank Transfer,Completed
+ORD-00377,2025-07-08,CUST-0238,Delhi,Electronics,Headphones,4.0,2595.78,0.1,9344.81,6172.42,3172.39,Corporate,Bank Transfer,Returned
+ORD-00385,2025-12-15,CUST-0072,Pune,Furniture,Cabinet,7.0,5715.75,0.1,36009.21,29564.1,6445.11,Consumer,Cash,Returned
+ORD-00225,2025-03-10,CUST-0245,Jaipur,Office Supplies,Notebook,-1,115.55,0.05,439.07,253.59,185.48,Corporate,Card,Pending
+ORD-00966,2025-10-23,CUST-0001,Lucknow,Electronics,Monitor,6.0,12287.94,0.15,,46079.52,16588.98,Consumer,UPI,Completed
+ORD-00825,2025-10-04,CUST-0146,Lucknow,Electronics,Laptop,3.0,59653.46,0.2,143168.31,112227.6,30940.71,Corporate,Card,Completed
+ORD-00473,2025-08-04,CUST-0190,Delhi,Clothing,Jeans,7.0,1641.47,0.2,9192.22,5089.07,4103.14,Small Business,Cash,Returned
+ORD-00348,2025-06-24,CUST-0091,Lucknow,Clothing,T-Shirt,4.0,619.12,0.05,2352.64,1768.02,584.62,Small Business,UPI,Completed
+ORD-00506,2025-11-20,CUST-0075,Chennai,Clothing,T-Shirt,5.0,641.45,0.15,2726.18,2387.94,338.24,Small Business,Card,Returned
+ORD-00640,2025-07-15,CUST-0348,Chennai,Furniture,Cabinet,5.0,5356.49,0.15,22765.09,16268.69,6496.4,Consumer,UPI,Cancelled
+ORD-01000,2025-12-17,CUST-0347,Bangalore,Clothing,Cap,8.0,433.56,0.2,2774.77,1784.52,990.26,Corporate,Cash,Pending
+ORD-00798,2025-06-10,CUST-0301,Delhi,Furniture,Table,7.0,8004.76,0.1,50430.0,37361.96,13068.04,Consumer,Bank Transfer,Returned
+ORD-00939,2025-02-12,CUST-0154,Hyderabad,Clothing,Jeans,7.0,1848.79,0.15,11000.29,7895.55,3104.73,Consumer,Card,Cancelled
+ORD-00916,2025-05-09,CUST-0059,Pune,Office Supplies,Stapler,1.0,205.92,0.0,205.92,154.15,51.76,Corporate,Card,Completed
+ORD-00620,2025-12-05,CUST-0077,Pune,Electronics,Laptop,1.0,62725.19,0.05,59588.93,36422.15, 23166.78 ,Consumer,Bank Transfer,Cancelled
+ORD-00866,2025-01-13,CUST-0116,Pune,Electronics,Headphones,2.0,2354.69,0.2,3767.5,2847.8,919.7,Corporate,Bank Transfer,Completed
+ORD-00814,2025-05-13,CUST-0175,Pune,Clothing,T-Shirt,4.0,₹637.2,0.15,2166.47,1574.64,591.83,Consumer,UPI,Completed
+ORD-00646,2025-12-05,CUST-0039,Bangalore,Furniture,Chair,5.0,4845.38,0.15,20592.89,12227.98,8364.91,Corporate,Bank Transfer,Completed
+ORD-00886,2025-12-05,CUST-0088,Hyderabad,Furniture,Bookshelf,,6420.92,0.1,34672.97,28052.36,6620.62,Consumer,Bank Transfer,Returned
+ORD-00557,2025-04-08,CUST-0165,Chennai,Electronics,Laptop,6.0,50442.99,0.1,272392.15,198084.0,74308.15,Corporate,UPI,Cancelled
+ORD-00970,2025-06-20,CUST-0079,Hyderabad,Clothing,Jeans,7.0,1799.06,0.0,12593.41,7246.61,5346.79,Corporate,Card,Returned
+ORD-00578,2025-10-03,CUST-0203,Hyderabad,Electronics,Headphones,4.0,2588.96,0.2,8284.67,6614.45,1670.22,Consumer,Cash,Cancelled
+ORD-00796,2025-08-06,CUST-0212,Mumbai,Electronics,Monitor,2.0,12692.77,0.2,20308.43,17812.82,2495.61,Consumer,Cash,Pending
+ORD-00086,2025-12-19,CUST-0156,Jaipur,Office Supplies,File Folder,2.0,94.79,0.15,161.15,89.51, 71.64 ,Corporate,Bank Transfer,Completed
+ORD-00243,2025-06-05,CUST-0008,Pune,Furniture,Cabinet,4.0,6151.77,0.1,22146.36,18766.43,3379.93,Corporate,Card,Completed
+ORD-00699,2025-08-15,CUST-0174,Jaipur,Office Supplies,Stapler,3.0,176.27,0.2,423.04,267.4,155.65,Small Business,Cash,Returned
+ORD-00160,2025-08-29,cust-0100,Pune,Office Supplies,Stapler,4.0,161.45,0.1,581.21,367.66,213.55,Small Business,UPI,Returned
+ORD-00525,2025-12-07,CUST-0107,Hyderabad,Electronics,Mouse,2.0,999.93,0.2,1599.88,891.16,708.72,Small Business,Bank Transfer,Pending
+ORD-00036,2025-11-23,CUST-0135,Delhi,Clothing,Jacket,6.0,3245.02,0.05,18496.62,11386.08,7110.54,Consumer,Card,Returned
+ORD-00541,2025-07-17,CUST-0098,Mumbai,Furniture,Cabinet,4.0,6515.42,0.2,20849.35,12082.31,8767.03,Consumer,Card,Cancelled
+ORD-00171,2025-10-07,CUST-0174,Lucknow,Electronics,Monitor,1.0,11969.82,0.1,10772.84,7608.27,3164.57,Consumer,Card,Returned
+ORD-00655,2025-11-19,CUST-0184,Pune,Electronics,Headphones,7.0,2379.59,0.0,16657.11,₹13640.38,3016.73,Corporate,Bank Transfer,Completed
+ORD-00901,2025-03-07,CUST-0157,Delhi,Clothing,Cap,3.0,568.48,0.2,1364.34,1082.44,281.9,Corporate,Cash,Pending
+ORD-00868,2025-05-07,CUST-0056,Delhi,Clothing,Shoes,6.0,2223.03,0.1,12004.38,10114.64,1889.74,Small Business,Bank Transfer,Completed
+ORD-00858,2025-04-01,CUST-0005,Chennai,Electronics,Keyboard,6.0,1387.92,0.15,7078.38,6216.99,861.4,Small Business,Cash,Pending
+ORD-00955,2025-06-11,CUST-0123,Chennai,Clothing,Jacket,6.0,2844.24,0.1,15358.89,9202.02,6156.87,Corporate,UPI,Returned
+ORD-00734,2025-07-15,CUST-0310,Hyderabad,Electronics,Laptop,1.0,62873.37,0.05,59729.71,40871.82,18857.88,Small Business,UPI,Completed
+ORD-00096,2025-04-08,CUST-0307,Hyderabad,Clothing,Jeans,3.0,1580.28,0.15,4029.7,3409.46,620.25,Small Business,Card,Completed
+ORD-00564,2025-09-06,CUST-0306,Chennai,Clothing,mouse,2.0,1576.97,0.1,2838.55,1943.81,894.74,Small Business,Cash,Completed
+ORD-00241,2025-05-05,CUST-0131,Chennai,Electronics,Monitor,3.0,12465.84,0.15,31787.88,24781.74,7006.14,Corporate,Card,Completed
+ORD-00743,2025-08-24,CUST-0337,Delhi,Office Supplies,Pen,6.0,37.9,0.0,227.37,152.55,74.82,Small Business,Bank Transfer,Cancelled
+ORD-00575,2025-01-08,CUST-0139,Pune,Furniture,Desk,1.0,9946.57,0.15,8454.59,7069.78,1384.8,Consumer,Bank Transfer,Completed
+ORD-00691,2025-03-09,CUST-0243,PUNE ,Furniture,Desk,7.0,8091.51,0.2,45312.48,30769.75,14542.73,Corporate,UPI,Pending
+ORD-00461,2025-02-02,CUST-0136,Delhi,Clothing,Jacket,8.0,3331.62,0.05,25320.32,17999.01,7321.31,Consumer,UPI,Completed
+ORD-00554,2025-02-12,CUST-0244,Chennai,Clothing,Jacket,3.0,2906.62,0.1,7847.87,6280.01,1567.86,Consumer,Cash,Cancelled
+ORD-00889,2025-02-11,CUST-0241,Bangalore,Electronics,Keyboard,8.0,1690.3,0.05,12846.32,8920.6,3925.72,Small Business,Cash,Completed
+ORD-00207,2025-12-15,CUST-0125,Hyderabad,Electronics,Monitor,7.0,13622.19,0.05,90587.54,66965.43,23622.1,Consumer,Cash,Cancelled
+ORD-00393,2025-08-20,CUST-0141,Lucknow,Office Supplies,Pen,1.0,36.18,0.0,36.18,30.74,5.43,Small Business,Card,Completed
+ORD-00795,2025-09-25,CUST-0219,Bangalore,Office Supplies,Pen,5.0,39.14,0.05,185.91,146.27,39.63,Small Business,UPI,Cancelled
+ORD-00398,2025-07-26,CUST-0010,Hyderabad,Furniture,Bookshelf,4.0,5560.31,0.05,21129.2,17702.06,3427.14,Corporate,Card,Completed
+ORD-00767,2025-03-22,CUST-0128,Lucknow,Furniture,Bookshelf,2.0,6921.49,0.0,13842.99,8859.04,4983.95,Small Business,Card,Cancelled
+ORD-00859,2025-05-24,CUST-0349,Hyderabad,Office Supplies,Pen,4.0,34.69,0.0,138.77,108.15,30.62,Consumer,UPI,Completed
+ORD-00218,2025-09-11,CUST-0096,Chennai,Electronics,Mouse,1.0,787.71,0.15,669.55,523.13,146.42,Consumer,UPI,Completed
+ORD-00005,2025-03-05,CUST-0194,Jaipur,Office Supplies,Printer Paper,8.0,463.65,0.2,2967.36,2325.42,641.95,Consumer,Cash,Cancelled
+ORD-00769,2025-07-13,CUST-0293,Chennai,Furniture,Chair,3.0,4521.72,0.15,11530.4,8933.39,2597.0,Corporate,Card,Completed
+ORD-00643,2025-09-26,CUST-0054,Mumbai,Electronics,Laptop,7.0,52136.61,0.0,364956.28,263076.85,101879.43,Consumer,Bank Transfer,Completed
+ORD-00908,2025-04-16,CUST-0159,Mumbai,Clothing,Shoes,4.0,2186.63,0.05,8309.19,7223.96,1085.23,Corporate,Bank Transfer,Returned
+ORD-00613,2025-07-20,CUST-0094,Bangalore,Furniture,Desk,5.0,8783.26,0.1,39524.69,30066.97,9457.72,Small Business,UPI,Completed
+ORD-00739,2025-05-15,CUST-0254,Bangalore,Clothing,Shoes,1.0,2730.88,0.15,2321.25,1860.61,460.64,Small Business,Bank Transfer,Cancelled
+ORD-00547,2025-12-20,CUST-0142,Pune,Electronics,Keyboard,6.0,1651.71,0.0,9910.28, 7127.35 ,2782.93,Consumer,Card,Completed
+ORD-00726,2025-03-11,CUST-0254,Mumbai,Electronics,Keyboard,2.0,1598.64,0.2,2557.83,1928.32,629.51,Corporate,UPI,Returned
+ORD-00684,2025-01-17,CUST-0152,Mumbai,Clothing,T-Shirt,6.0,745.32,0.2,3577.55,3040.85,536.7,Corporate,Bank Transfer,Completed
+ORD-00099,2025-06-12,CUST-0243,Chennai,Furniture,Desk,7.0,9610.08,0.0,67270.56,56914.02,10356.55,Consumer,Bank Transfer,Pending
+ORD-00805,2025-06-20,CUST-0005,Jaipur,Furniture,Desk,7.0,8281.02,0.0,57967.16,42211.91,15755.25,Small Business,Cash,Returned
+ORD-00728,2025-08-08,CUST-0097,Pune,Office Supplies,Stapler,7.0,154.64,0.1,974.24,835.13,139.11,Small Business,Cash,Pending
+ORD-00574,2025-04-05,CUST-0199,Bangalore,Electronics,Headphones,8.0,2723.07,0.1,19606.1,15043.55,4562.55,Small Business,Bank Transfer,Pending
+ORD-00407,2025-05-29,CUST-0185,Delhi,Office Supplies,Stapler,3.0,159.73,0.0,479.2,409.17,70.02,Consumer,UPI,Pending
+ORD-00503,2025-11-19,CUST-0050,Delhi,Electronics,Mouse,5.0,982.77,0.15,4176.78,3205.25,971.52,Consumer,Bank Transfer,Returned
+ORD-00048,2025-05-27,CUST-0108,Jaipur,Clothing,Jeans,1.0,1946.32,0.1,1751.69,1248.87,502.82,Corporate,Bank Transfer,Cancelled
+ORD-00033,2025-12-01,CUST-0271,Hyderabad,Office Supplies,Pen,5.0,37.37,0.2,149.48,108.99,40.5,Small Business,Cash,Returned
+ORD-00780,2025-05-24,CUST-0185,,Office Supplies,Notebook,3.0,132.24,0.15,337.2,285.61,51.59,Consumer,Bank Transfer,Completed
+ORD-00840,2025-05-23,CUST-0331,Lucknow,Furniture,Table,1.0,6765.43,0.15,5750.62,4481.65,1268.97,Small Business,Cash,Completed
+ORD-00201,2025-07-17,CUST-0259,Pune,Electronics,Monitor,5.0,10571.25,0.0,52856.23,44813.76,8042.47,Corporate,Bank Transfer,Cancelled
+ORD-00135,2025-03-15,CUST-0290,Lucknow,Office Supplies,Printer Paper,1.0,431.03,0.05,409.48,264.89,144.59,Corporate,Bank Transfer,Completed
+ORD-00028,2025-09-29,CUST-0081,Delhi,Office Supplies,Notebook,8.0,123.52,0.2,790.56,675.31,115.25,Small Business,Cash,Cancelled
+ORD-00891,2025-11-29,CUST-0019,Jaipur,Clothing,Shoes,7.0,2153.82,0.2,12061.39,10223.01,1838.38,Small Business,Card,Completed
+ORD-00231,2025-05-27,CUST-0210,Delhi,Office Supplies,Notebook,8.0,106.23,0.0,849.85,649.49,200.36,Consumer,Card,Completed
+ORD-00490,2025-07-31,CUST-0181,Pune,Electronics,Headphones,4.0,2497.27,0.1,8990.19,6715.29,2274.89,Small Business,Cash,Returned
+ORD-00773,2025-04-21,CUST-0145,Bangalore,Clothing,Shoes,4.0,2847.2,0.2,9111.02,6464.91,2646.11,Corporate,Card,Pending
+ORD-00379,2025-01-15,CUST-0198,Bangalore,Office Supplies,Printer Paper,2.0,466.21,0.1,839.18,609.28,229.9,Corporate,Cash,Completed
+ORD-00289,2025-05-28,CUST-0072,,Furniture,Table,3.0,6705.92,0.15,17100.08,14633.81,2466.28,Small Business,Card,Completed
+ORD-00419,2025-08-21,CUST-0170,Lucknow,Furniture,Table,1.0,8433.4,0.05,8011.73,5364.58,2647.16,Corporate,Bank Transfer,Returned
+ORD-00675,2025-04-10,CUST-0324,Chennai,Clothing,Jeans,3.0,2063.33,0.15,5261.49,2963.46,2298.03,Corporate,UPI,Completed
+ORD-00392,2025-06-11,CUST-0093,Lucknow,Furniture,Desk,8.0,8329.86,0.75,63306.92,42040.84,21266.08,Corporate,Cash,Pending
+ORD-00593,2025-09-27,CUST-0295,Jaipur,Electronics,Headphones,6.0,2201.88,0.1,11890.16,10217.04,1673.12,Corporate,UPI,Completed
+ORD-00499,2025-08-06,CUST-0108,Lucknow,Office Supplies,Stapler,3.0,202.53,0.15,516.46,307.37,209.09,Corporate,Bank Transfer,Returned
+ORD-00139,2025-05-26,CUST-0348,Mumbai,Furniture,Cabinet,7.0,6536.93,0.0,45758.52,34981.84,10776.68,Corporate,Bank Transfer,Cancelled
+ORD-00063,2025-01-16,CUST-0127,Pune,Electronics,Keyboard, 2 ,,0.0,2938.82,2030.56,908.25,Small Business,Card,Completed
+ORD-00472,2025-11-04,CUST-0020,Mumbai,OFFICE SUPPLIES,Jeans,8.0,1881.77,0.2,12043.31,9921.46,2121.85,Consumer,Cash,Completed
+ORD-00648,2025-09-09,CUST-0103,Jaipur,Electronics,Keyboard,8.0,1744.28,0.0,13954.25,8596.51,5357.74,Consumer,Bank Transfer,Completed
+ORD-00129,2025-06-10,CUST-0219,Hyderabad,Clothing,Jacket,7.0,3392.54,0.0,23747.78,18515.9,5231.88,Corporate,UPI,Returned
+ORD-00989,2025-10-02,CUST-0105,Jaipur,Clothing,T-Shirt,-3,649.45,0.05,4318.86,2987.73,1331.13,Small Business,Cash,Returned
+ORD-00521,2025-08-13,CUST-0005,Mumbai,Electronics,Mouse,5.0,910.66,0.05,4325.65,3507.83,817.81,Corporate,Card,Completed
+ORD-00839,2025-11-16,CUST-0341,Hyderabad,Clothing,Shoes,6.0,2185.69,0.0,13114.14,8956.74,4157.4,Consumer,Bank Transfer,Pending
+ORD-00975,2025-10-22,CUST-0053,Pune,Furniture,Desk,1.0,8536.12,0.1,7682.51,5325.72,2356.79,Small Business,Card,Pending
+ORD-00065,2025-10-24,CUST-0014,Mumbai,Furniture,Cabinet,5.0,5112.51,0.0,25562.57,18367.9,7194.67,Consumer,UPI,Cancelled
+ORD-00813,2025-09-15,CUST-0017,Lucknow,Office Supplies,Printer Paper,3.0,406.17,0.05,1157.57,900.25,257.33,Small Business,Cash,Completed
+ORD-00015,2025-11-24,CUST-0260,Banglore,Electronics,Keyboard,2.0,1644.36,0.1,2959.85,1673.29,1286.56,Small Business,Card,Completed
+ORD-00157,2025-04-26,CUST-0071,,Office Supplies,Pen,8.0,34.3,0.05,260.71,226.21,34.5,Corporate,Card,Completed
+ORD-00041,2025-08-24,CUST-0180,Delhi,Electronics,Headphones,4.0,2772.33,0.05,10534.84,"7,961.06",2573.78,Corporate,UPI,Completed
+ORD-00493,2025-04-14,CUST-0128,Pune,Furniture,Desk,4.0,9616.11,0.05,36541.22,26072.6,10468.62,Corporate,UPI,Completed
+ORD-00380,2025-11-30,CUST-0210,Pune,Furniture,Desk,4.0,10063.51,0.1,36228.64,29353.78,6874.85,Small Business,Cash,Returned
+ORD-00188,2025-08-10,CUST-0258,Lucknow,Clothing,Cap,3.0,435.68,0.05,1241.68,813.63,428.06,Consumer,Cash,Completed
+ORD-00764,2025-08-30,CUST-0212,delhi,Office Supplies,Stapler,2.0,168.38,-0.1,286.25,186.47,99.79,Corporate,UPI,Returned
+ORD-00217,2025-11-30,CUST-0294,Lucknow,Furniture,Bookshelf,1.0,6730.53,0.0,6730.53,3926.39,2804.14,Corporate,Card,Cancelled
+ORD-00792,2025-09-01,CUST-0138,Pune,Electronics,Keyboard,8.0,1645.35,0.15,11188.37,7987.75,3200.62,Corporate,Bank Transfer,Completed
+ORD-00053,2025-10-14,CUST-0305,Hyderabad,Furniture,Chair,,5611.35,0.2,,22706.36,13206.28,Consumer,UPI,Pending
+ORD-00879,2025-12-21, CUST-0170 ,Hyderabad,Office Supplies,Pen,8.0,45.51,0.2,291.3,207.11,84.19,Small Business,UPI,Cancelled
+ORD-00338,2025-03-28,CUST-0294,Mumbai,Electronics,Keyboard,8.0,1556.99,0.0,12455.92,10888.78,1567.14,Consumer,Bank Transfer,Returned
+ORD-00749,2025-05-09,CUST-0320,Lucknow,Office Supplies,Stapler,-3,186.45,0.15,1109.39,779.85,329.54,Consumer,Bank Transfer,Returned
+ORD-00720,2025-01-17,CUST-0338,Banglore,Electronics,Headphones,4.0,2276.39,0.0,9105.56,7031.61,2073.95,Consumer,Cash,Pending
+ORD-00725,2025-08-06,CUST-0110,Mumbai,Furniture,Table,6.0,8500.38,0.15,43351.95,33618.22,9733.73,Consumer,Card,Pending
+ORD-00296,2025-10-03,CUST-0087,Lucknow,Electronics,Monitor,5.0,10699.78,0.2,42799.11,32591.04,10208.07,Small Business,UPI,Returned
+ORD-00702,2025-07-21,CUST-0100,Hyderabad,Electronics,Laptop,2.0,47355.08,0.2,75768.13,60085.08,15683.04,Small Business,Bank Transfer,Completed
+ORD-00252,2025-01-09,CUST-0272,Delhi,Clothing,T-Shirt,7.0,660.0,0.0,4620.01,3781.72,838.29,Small Business,UPI,Cancelled
+ORD-00727,2025-03-01,CUST-0198,Delhi,Office Supplies,File Folder,6.0,99.96,0.15,509.8,376.38,133.41,Consumer,UPI,Pending
+ORD-00462,2025-01-24,CUST-0021,Lucknow,Electronics,Mouse,8.0,1006.53,0.15,6844.4,5571.01,1273.38,Corporate,UPI,Completed
+ORD-00456,2025-03-13,CUST-0276,Mumbai,Clothing,Cap,2.0,513.54,0.1,924.38,590.18,334.2,Consumer,Card,Completed
+ORD-00860,2025-09-10,CUST-0186,Jaipur,Electronics,Monitor,4.0,13741.24,0.05,52216.73,32840.64,19376.09,Small Business,Cash,Completed
+ORD-00816,2025-11-19,CUST-0061,Delhi,Electronics,Monitor,2.0,12922.19,0.05,24552.16,16319.78,8232.37,Small Business,Card,Completed
+ORD-00863,2025-08-21,CUST-0002,Delhi,Office Supplies,Pen,5.0,42.31,0.2,169.22,96.55,72.67,Small Business,Bank Transfer,Returned
+ORD-00270,2025-03-11,CUST-0154,Hyderabad,Clothing,,7.0,2955.49,0.2,16550.74,9808.34,6742.4,Corporate,UPI,Cancelled
+ORD-00202,2025-07-11,CUST-0174,Mumbai,Office Supplies,File Folder,2.0,90.14,0.15,153.24,126.08,27.16,Consumer,UPI,Completed
+ORD-00162,2025-03-05,CUST-0146,Lucknow,Electronics,Headphones,2.0,2620.15,0.2,4192.24,2693.0,1499.24,Small Business,Cash,Completed
+ORD-00556,2025-02-06,CUST-0137,Pune,Clothing,Cap,4.0,547.37,0.05,2080.02,1298.07,781.95,Small Business,Bank Transfer,Completed
+ORD-00730,2025-02-03,CUST-0187,Chennai,Furniture,Table,2.0,6860.27,0.05,13034.51,10003.1,3031.41,Small Business,Card,Completed
+ORD-00402,2025-05-19,CUST-0319,Chennai,Electronics,Keyboard,2.0,1636.62,0.2,2618.59,1964.51,654.08,Small Business,Card,Pending
+ORD-00703,2025-07-17,CUST-0191,Chennai,Electronics,Keyboard,7.0,1678.63,0.1,10575.34,7472.84,3102.51,Consumer,Cash,Completed
+ORD-00477,2025-11-30,CUST-0300,Lucknow,Office Supplies,Stapler,3.0,162.47,0.15,414.3,352.88,61.42,Consumer,UPI,Completed
+ORD-00822,2025-01-30,CUST-0324,Chennai,Clothing,T-Shirt,3.0,704.4,0.2,1690.56,1277.7,412.86,Consumer,UPI,Pending
+ORD-00772,2025-04-08,CUST-0137,Hyderabad,Clothing,Shoes,4.0,2550.48,0.05,9691.84,6151.08,3540.76,Consumer,UPI,Returned
+ORD-00106,2025-05-11,CUST-0342,Hyderabad,Furniture,Desk,5.0,9131.58,0.15,38809.22,30206.2,8603.02,,Cash,Pending
+ORD-00566,2025-07-01,CUST-0321,Bangalore,Clothing,Shoes,6.0,2667.57,0.1,14404.85,10279.86,4124.99,Consumer,UPI,Completed
+ORD-00390,2025-10-25,CUST-0318,Mumbai,Office Supplies,Stapler,,191.88,0.2,153.51,116.91,36.6,Corporate,Cash,Pending
+ORD-00002,2025-09-16,CUST-0309,Delhi,Clothing,T-Shirt,4.0,748.72,0.05,2845.13,2126.9,718.23,Consumer,Cash,Cancelled
+ORD-00948,2025-03-28,CUST-0252,Chennai,Office Supplies,Pen,5.0,40.66,0.0,203.31,161.0,42.31,Small Business,Cash,Completed
+ORD-00995,2025-10-31,CUST-0066,Lucknow,Clothing,Jeans,7.0,1765.9,0.15,10507.1,8308.36,2198.74,Small Business,UPI,Completed
+ORD-00562,2025-12-23,CUST-0317,Bangalore,Electronics,Keyboard,5.0,1773.82,0.05,8425.65,6884.94,1540.71,Consumer,UPI,Completed
+ORD-00081,2025-10-19,CUST-0318,Hyderabad,Clothing,Shoes,7.0,2400.84,0.1,15125.28,11474.96,3650.32,Corporate,Cash,Cancelled
+ORD-00206,2025-08-31,CUST-0136,Jaipur,Electronics,Headphones,1.0,2364.49,0.2,1891.59,1633.43,258.16,Small Business,Card,Returned
+ORD-00035,2025-09-08,CUST-0129,Pune,Furniture,Bookshelf,5.0,5670.37,0.2,22681.5,19861.57,2819.93,Small Business,Cash,Completed
+ORD-00776,2025-02-18,CUST-0286,Chennai,Furniture,Table,5.0,8515.66,0.0,42578.29,31871.21,10707.08,Small Business,Cash,Completed
+ORD-00509,2025-12-25,CUST-0041,Delhi,Furniture,Desk,4.0,8137.55,0.1,29295.19,21602.92,7692.28,Consumer,Card,Completed
+ORD-00428,2025-10-15,CUST-0246,Lucknow,Furniture,Cabinet,2.0,5469.25,0.1,9844.65,6034.05,3810.6,Small Business,Bank Transfer,Returned
+ORD-00455,2025-08-25,CUST-0229,Lucknow,Clothing,Jacket,6.0,2783.48,0.15,14195.75,9586.37,4609.38,Consumer,UPI,Completed
+ORD-00367,2025-03-27,CUST-0109,Bangalore,Electronics,Monitor,8.0,12594.71,0.05,95719.8,69168.23,26551.56,Consumer,Card,Completed
+ORD-00092,2025-09-23,CUST-0186,Hyderabad,Electronics,Monitor,1.0,13528.9,0.05,12852.45,10789.92,2062.54,Corporate,Bank Transfer,Returned
+ORD-00340,2025-09-13,CUST-0211,Bangalore,Office Supplies,laptop,4.0,205.35,0.1,739.27,617.74,121.52,Consumer,Bank Transfer,Completed
+ORD-00898,2025-06-27,CUST-0207,Jaipur,Furniture,Cabinet,5.0,5175.01,0.1,23287.55,13459.77,9827.78,Consumer,Bank Transfer,Cancelled
+ORD-00565,2025-05-07,CUST-0272,Hyderabad,Furniture,Cabinet,1.0,5770.84,0.0,5770.84,3668.63,2102.21,Small Business,UPI,Completed
+ORD-00346,2025-10-16,CUST-0073,Delhi,Office Supplies,File Folder,6.0,85.24,0.2,409.15,282.47,126.67,Small Business,Card,Pending
+ORD-00777,2025-05-10,CUST-0259,Hyderabad,Office Supplies,Pen,1.0,43.83,0.0,43.83,36.9,6.93,Corporate,Bank Transfer,Completed
+ORD-00242,2025-05-18,CUST-0194,Lucknow,Electronics,Headphones,4.0,2465.91,0.0,9863.62,7467.69,2395.93,Consumer,Cash,Completed
+ORD-00014,2025-05-31,CUST-0223,Jaipur,Electronics,Printer paper,6.0,50044.62,0.0,300267.7,216101.88,84165.83,Small Business,Card,Pending
+ORD-00316,2025-04-15,CUST-0080,Mumbai,Furniture,Bookshelf,2.0,6916.03,0.2,11065.65,9355.1,1710.55,Corporate,UPI,Pending
+ORD-00601,2025-12-28,CUST-0162,Chennai,Furniture,Cabinet,2.0,6464.87,0.1,11636.77,6494.64,5142.13,Consumer,Cash,Completed
+ORD-00388,2025-04-04,CUST-0349,Bangalore,Electronics,Headphones,5.0,2722.97,0.2,10891.89,6529.39,4362.5,Small Business,UPI,Returned
+ORD-00274,2025-08-05,CUST-0194,Jaipur,Clothing,Jeans,5.0,1591.32,0.05,7558.78,5832.5,1726.28,Consumer,Cash,Pending
+ORD-00167,2025-08-03,CUST-0328,Jaipur,Office Supplies,Pen,1.0,34.17,0.05,32.46,19.1,-13.37,Consumer,Bank Transfer,Completed
+ORD-00841,2025-02-13,CUST-0099,Jaipur,Electronics,,2.0,11445.96,0.2,18313.53,15968.51,2345.02,Small Business,Cash,Cancelled
+ORD-00412,2025-08-14,CUST-0024,Hyderabad,OFFICE SUPPLIES,Mouse,2.0,855.04,0.15,1453.58,990.46,463.12,Corporate,Cash,Completed
+ORD-00647,2025-02-01,CUST-0196,Jaipur,Clothing,Jacket,2.0,3060.79,0.1,5509.42,4283.7,1225.72,Consumer,Bank Transfer,Completed
+ORD-00819,2025-11-19,CUST-0341,Jaipur,Furniture,Chair,7.0,4848.97,0.1,30548.54,18338.2,12210.33,Corporate,Card,Completed
+ORD-00485,2025-10-28,CUST-0103,Chennai,Electronics,Keyboard,7.0,1631.87,0.15,9709.65,6865.66,2843.99,Corporate,Cash,Returned
+ORD-00993,2025-09-27,CUST-0157,Chennai,Clothing,Jeans,2.0,1602.08,0.05,3043.95,1755.14,1288.81,Consumer,Bank Transfer,Completed
+ORD-00505,2025-12-11,CUST-0262,Bangalore,Furniture,Cabinet,6.0,5549.4,0.1,29966.77,21321.67,8645.11,Corporate,Bank Transfer,Returned
+ORD-00832,2025-12-19,CUST-0251,Hyderabad,Clothing,Jacket,7.0,3377.45,0.15,20095.84,14348.39,5747.45,Small Business,Bank Transfer,Completed
+ORD-00244,2025-05-03,CUST-0283,Pune,Electronics,Headphones,4.0,2159.08,0.15,7340.89,₹4718.12,2622.77,Small Business,UPI,Completed
+ORD-00567,2025-05-24,CUST-0116,Jaipur,Office Supplies,Notebook,1.0,104.92,0.2,83.93,52.26,31.67,Corporate,Card,Completed
+ORD-00876,2025-08-12,CUST-0263,Delhi,Furniture,Chair,5.0,5052.97,0.2,20211.86,12551.9,7659.96,,UPI,Completed
+ORD-00563,2025-02-25,CUST-0010,Mumbai,Clothing,T-Shirt,5.0,732.6,0.1,3296.7,2412.47,884.23,Corporate,UPI,Returned
+ORD-00965,2025-02-15,CUST-0175,Mumbai,Furniture,Bookshelf,2.0,6777.53,0.0,13555.07,7745.39,5809.68,Corporate,Card,Returned
+ORD-00687,2025-10-25,CUST-0108,Lucknow,Furniture,Desk,2.0,9956.84,0.15,16926.63,12059.4,4867.22,Consumer,Card,Completed
+ORD-00958,2025-11-21,CUST-0185,Delhi,office supplies,Jeans,6.0,1772.25,0.0,10633.5,8382.21,2251.29,Small Business,Cash,Returned
+ORD-00190,2025-01-10,CUST-0048,Jaipur,Office Supplies,Pen,5.0,43.77,0.2,175.09,112.59,62.51,Consumer,Card,Cancelled
+ORD-00783,2025-08-15,CUST-0183,Chennai,Furniture,Printer paper,8.0,8225.88,0.0,65807.06,45395.92,20411.14,Consumer,Bank Transfer,Pending
+ORD-00700,2025-01-13,CUST-0206,Bangalore,Clothing,T-Shirt,2.0,724.6,0.1,1304.28,1021.56,282.72,Small Business,Card,Pending
+ORD-00476,2025-01-04,CUST-0193,Delhi,Furniture,Chair,2.0,5150.78,0.2,8241.24,6341.32,1899.92,Small Business,Card,Returned
+ORD-00682,2025-09-03,CUST-0343,Pune,Office Supplies,Printer Paper,2.0,466.6,0.0,933.2,707.75,225.45,Small Business,UPI,Completed
+ORD-00511,2025-12-02,CUST-0200,Jaipur,Electronics,Laptop,3.0,58257.43,0.0,174772.3,113274.33,61497.97,Small Business,UPI,Completed
+ORD-00059,2025-06-22,CUST-0343,Chennai,OFFICE SUPPLIES,Bookshelf,1.0,7092.16,0.15,6028.34,3686.74,2341.6,Corporate,Bank Transfer,Returned
+ORD-00475,2025-11-03,CUST-0279,Hyderabad,Furniture,Bookshelf,2.0,7229.09,0.1,13012.35,9722.13,3290.22,Consumer,Bank Transfer,Completed
+ORD-00561,2025-03-14,CUST-0343,Jaipur,Furniture,Desk,8.0,10049.62,0.2,64317.57,55658.17,8659.4,Small Business,Cash,Pending
+ORD-00857,2025-10-03,CUST-0016,Hyderabad,Furniture,Table,2.0,8131.71,0.0,16263.43,11412.6,4850.83,Corporate,Bank Transfer,Returned
+ORD-00748,2025-02-09,CUS-0334,Hyderabad,Electronics,Monitor,4.0,12372.41,0.1,44540.69,34319.06,10221.63,,UPI,Cancelled
+ORD-00253,2025-09-26,CUST-0077,Chennai,Office Supplies,Notebook,2.0,126.65,0.0,253.3,152.91,,Consumer,Card,Completed
+ORD-00022,2025-07-01,CUST-0217,Pune,Clothing,Shoes,2.0,2150.79,0.15,3656.35,3108.17,-548.17,Consumer,Bank Transfer,Completed
+ORD-00314,2025-10-28,CUST-0035,Bangalore,Clothing,Jacket,,2966.28,0.0,5932.56,4726.27,1206.3,Corporate,Cash,Completed
+ORD-00460,2025-10-17,CUST-0290, Delhi ,Furniture,Cabinet,3.0,6474.49,0.05,18452.3,11001.95,7450.35,Corporate,Card,Returned
+ORD-00161,2025-04-13,CUST-0310,Jaipur,Clothing,Shoes,7.0,2536.92,0.05,16870.52,13257.13,3613.38,Corporate,Card,Completed
+ORD-00277,2025-09-19,CUST-0266,Delhi,Clothing,T-Shirt,5.0,710.9,0.05,3376.78,2482.3,894.48,Consumer,Card,Pending
+ORD-00956,2025-01-02,CUST-0234,Delhi,Clothing,Shoes,6.0,2354.2,0.0,14125.22,11855.22,2270.0,Corporate,Bank Transfer,Returned
+ORD-00192,2025-11-18,CUST-0280,,Furniture,Cabinet,1.0,6232.1,0.15,5297.28,4447.42,849.87,Small Business,UPI,Returned
+ORD-00386,2025-01-19,CUST-0299,Jaipur,Clothing,Jacket,7.0,2649.57,0.15,15764.93,13074.32,2690.61,Corporate,Card,Completed
+ORD-00806,2025-09-07,CUST-0205,Hyderabad,Clothing,Shoes,5.0,2785.06,0.0,13925.3,10649.92,3275.38,Small Business,Bank Transfer,Cancelled
+ORD-00414,2025-10-13,CUST-0314,Lucknow,Furniture,Table,7.0,7154.28,0.05,47575.95,31613.96,15961.99,Small Business,Cash,Completed
+ORD-00492,2025-12-16,CUST-0098,,Office Supplies,Printer Paper,5.0,396.89,0.05,1885.23,1083.62,801.61,Small Business,Bank Transfer,Returned
+ORD-00344,2025-12-03,CUST-0124,Pune,Office Supplies,File Folder,2.0,91.93,0.05,174.67,112.21,62.46,Consumer,UPI,Cancelled
+ORD-00770,2025-05-15,CUST-0087,Pune,Electronics,Monitor,8.0,10853.18,0.05,82484.15,59661.11,22823.04,Consumer,Cash,Pending
+ORD-00309,2025-07-30,CUST-0316,Lucknow,Furniture,Table,4.0,6512.43,0.05,24747.22,15872.11,8875.1,Small Business,Bank Transfer,Completed
+ORD-00662,2025-04-20,CUST-0024,Mumbai,Clothing,Jacket,3.0,3334.61,0.1,9003.43,5603.2,3400.23,Small Business,Card,Completed
+ORD-00131,2025-10-15,CUST-0288,Bangalore,Electronics,Keyboard,1.0,1655.2,0.2,1324.16,1160.92,163.25,Small Business,UPI,Returned
+ORD-00664,2025-07-12,CUST-0081,Delhi,Furniture,Cabinet,2.0,5427.81,0.2,8684.5,7039.66,1644.84,Consumer,Cash,Pending
+ORD-00872,2025-07-30,CUST-0120,Chennai,Electronics,Keyboard,2.0,1729.27,0.2,2766.83,1531.83,1235.0,Corporate,Cash,Pending
+ORD-00100,2025-08-14,CUST-0052,Delhi,Furniture,Table,6.0,8370.94,0.0,50225.67,40550.14,9675.53,Consumer,Bank Transfer,Completed
+ORD-00373,2025-09-06,CUST-0144,Lucknow,Clothing,Jacket,6.0,2758.99,0.1,,12616.98,2281.57,Consumer,Bank Transfer,Returned
+ORD-00088,2025-01-21,CUST-0090,Delhi,Electronics,Mouse,5.0,939.2,0.2,3756.79,2282.4,1474.39,Small Business,Bank Transfer,Cancelled
+ORD-00459,2025-01-06,CUST-0340,Mumbai,Clothing,Cap,6.0,469.17,0.2,2252.02,1943.47,308.55,Corporate,Card,Cancelled
+ORD-00331,2025-08-20,CUST-0140,Chennai,Office Supplies,Printer Paper,6.0,430.57,0.1,2325.09,2035.74,289.36,Small Business,Card,Completed
+ORD-00215,2025-01-27,CUST-0052,Delhi,Furniture,Desk,4.0,8597.47,0.05,32670.39,19230.84,13439.55,Small Business,Bank Transfer,Completed
+ORD-00467,2025-01-12,CUST-0125,Pune,Clothing,Shoes,3.0,2863.3,0.15,7301.42,5282.41,2019.0,Small Business,Cash,Completed
+ORD-00122,2025-11-02,CUST-0002,Pune,Furniture,Cabinet,6.0,6746.76,0.05,38456.51,25848.63,12607.88,Consumer,UPI,Completed
+ORD-00615,2025-02-24,CUST-0167,Bangalore,Office Supplies,Printer Paper,2.0,515.34,0.15,876.07,600.18,275.89,Small Business,Cash,Completed
+ORD-00021,2025-10-04,CUST-0068,Pune,Electronics,Monitor,8.0,10639.34,0.05,80858.97,57685.46,23173.5,Corporate,Bank Transfer,Completed
+ORD-00701,2025-09-27,CUST-0114,Banglore,Office Supplies,Laptop ,4.0,108.01,0.2,345.64,209.22,136.42,Consumer,UPI,Completed
+ORD-00072,2025-10-12,CUST-0124,Pune,Furniture,Chair,7.0,4995.87,0.15,29725.44,19300.43,10425.01,Small Business,Bank Transfer,Returned
+ORD-00107,2025-10-28,CUST-0154,Bangalore,Office Supplies,File Folder,8.0,94.1,0.1,677.54,422.79,254.75,Consumer,Bank Transfer,Returned
+ORD-00271,2025-05-30,CUST-0325,Lucknow,Furniture,Table,7.0,8521.61,0.1,53686.17,40266.65,13419.52,Consumer,Bank Transfer,Cancelled
+ORD-00861,2025-02-26,CUST-0143,Pune,Clothing,Cap,4.0,446.34,0.15,1517.55,895.44,622.11,Consumer,Bank Transfer,Completed
+ORD-00436,2025-10-21,CUST-0282,Delhi,Furniture,Bookshelf,5.0,6252.95,0.15,26575.05,16990.65,9584.41,Small Business,UPI,Completed
+ORD-00103,2025-08-16,CUST-0086,Mumbai,Office Supplies,Pen,2.0,41.28,0.0,82.55,45.66,36.9,Corporate,UPI,Completed
